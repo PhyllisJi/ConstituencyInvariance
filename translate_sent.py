@@ -48,8 +48,8 @@ def do_request(data):
 
 
 def get_youdao_translation(sent):
-    APP_KEY = '623c3d3b8b751234'
-    APP_SECRET = 'ra5L33MgSDzUJmEghCnlNgzVoDTuw7pT'
+    APP_KEY = ''
+    APP_SECRET = ''
     data = {}
     data['from'] = 'en'
     data['to'] = 'zh-CHS'
@@ -78,40 +78,15 @@ def get_youdao_translation(sent):
             return data['translation'][0]
         except:
             response = do_request(data)
-    # data = {}
-    # data["appkey"] = "54ca88e2ad2e6e91"
-    # data["type"] = "youdao"
-    # data["from"] = "en"
-    # data["to"] = "zh-CN"
-    # data["text"] = sent
-    # url_values = urllib.parse.urlencode(data)
-    # url = "https://api.jisuapi.com/translate/translate" + "?" + url_values
-    # request = urllib2.Request(url)
-    # for i in range(10):
-    #     try:
-    #         result = urllib2.urlopen(request, timeout=10)
-    #         jsonarr = json.loads(result.read())
-    #         if jsonarr["status"] == 0:
-    #             return jsonarr["result"]["result"]
-    #             break
-    #         else:
-    #             print(jsonarr)
-    #             if i < 10:
-    #                 continue
-    #     except:
-    #         if i < 10:
-    #             continue
-    #         else:
-    #             print('URLError: <urlopen error timed out> All times is failed ')
-
+   
 
 def get_baidu_translation(q):
-    appid = '20200612000493234'  # 填写你的appid
-    secretKey = 'kLRBeqCQ0ZIivTlZUtuj'  # 填写你的密钥
+    appid = ''  
+    secretKey = '' 
     httpClient = None
     myurl = '/api/trans/vip/translate'
-    fromLang = 'auto'  # 原文语种
-    toLang = 'zh'  # 译文语种
+    fromLang = 'auto'  
+    toLang = 'zh'  
     salt = random.randint(32768, 65536)
     sign = appid + q + str(salt) + secretKey
     sign = hashlib.md5(sign.encode()).hexdigest()
@@ -122,7 +97,6 @@ def get_baidu_translation(q):
     try:
         httpClient = http.client.HTTPConnection('api.fanyi.baidu.com', timeout=10)
         httpClient.request('GET', myurl)
-        # response是HTTPResponse对象
         response = httpClient.getresponse()
         result_all = response.read().decode("utf-8")
         result = json.loads(result_all)
@@ -137,44 +111,8 @@ def get_baidu_translation(q):
 
 
 def get_google_translation(q, lan):
-    # client_id = '3394e8fdf8e4634eec2a62b8de838e6a'  # 填写你的appid
-    # user_name = 'jipin_60@126.com'
-    # mt_provider = 'Google'
-    # de = "trados"
-    # text = q
-    # org_lan = "en-US"
-    # tgt = "zh-CN"
-    # serverName = "http://api.tmxmall.com"
-    # testCidUrl = serverName + "/v1/http/clientIdVerify";
-    # setmturl = serverName + "/v1/http/setmtprovider";
-    # mtTransUrl = serverName + "/v1/http/mttranslate";
-    # ver_params = {
-    #     'user_name': user_name,
-    #     'client_id': client_id,
-    #     'de': de
-    # }
-    # set_params = {
-    #     'user_name': user_name,
-    #     'client_id': client_id,
-    #     'de': de,
-    #     'mt_provider': mt_provider,
-    # }
-    # trans_params = {
-    #     'user_name': user_name,
-    #     'client_id': client_id,
-    #     'de': de,
-    #     'text': text,
-    #     'from': org_lan,
-    #     'to': tgt
-    # }
-    # ver_response = requests.get(testCidUrl, params=ver_params, timeout=(3, 10))
-    # set_response = requests.get(setmturl, params=set_params, timeout=(3, 10))
-    # trans_response = requests.get(mtTransUrl, params=trans_params, timeout=(3, 10))
-    # s = trans_response.json()
-    # error_code = s['error_code']
-    # return s['mt_set'][0]['tgt']
     data = {}
-    data["appkey"] = "54ca88e2ad2e6e91"
+    data["appkey"] = ""
     data["type"] = "google"
     data["from"] = "en"
     if "zh" in lan:
@@ -204,9 +142,7 @@ def get_google_translation(q, lan):
 
 
 def get_bing_translation(source, lan):
-    subscription_key = "ae18db5e356a48b7acd3ff685037220c"
-    #subscription_key = "9803b462118c4664bb179f42c8a414e1"
-    #subscription_key = "71d8682463da4fd8a7a3f50a637742b1"
+    subscription_key = ""
     endpoint = "https://api.cognitive.microsofttranslator.com/"
     path = '/translate'
     params = {
@@ -326,9 +262,6 @@ def translate_sent(mt_sys, pred_file, trans_file, s_id, e_id, lan):
     e_str = "sent_id = " + str(e_id)
     while s_str not in line:
         line = f.readline()
-    # sent = "In the quest to deal with the challenges of the pandemic while also improving his performances on stage, Hamilton has been trying new things."
-    # while sent not in line:
-    #     line = f.readline()
     while line:
         if e_str in line:
             break
@@ -347,26 +280,6 @@ def translate_sent(mt_sys, pred_file, trans_file, s_id, e_id, lan):
             w.write("{};{}".format(sent, trans) + "\n")
         line = f.readline()
     f.close()
-    w.close()
-
-
-def format_original(sent):
-    pattern = re.compile(r" - ")
-    sent = sent.replace(" , ", ", ")
-    sent = sent.replace(" .", ".")
-    sent = re.sub(pattern, "-", sent).strip().rstrip()
-    sent = format_abbr(sent)
-    return sent[:1].upper() + sent[1:]
-
-
-def trans_original(file_name, mt_sys, lan, file_path):
-    sents = pd.read_csv('./comp_result/' + file_name + '_source.csv')['source'].values
-    w = open(file_path, mode="a")
-    for sent in sents:
-        sent = format_original(sent)
-        trans = get_translation_by_sys(mt_sys, sent, lan)
-        print("{};{}".format(sent, trans))
-        w.write("{};{}".format(sent, trans) + "\n")
     w.close()
 
 
