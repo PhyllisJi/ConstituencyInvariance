@@ -1,0 +1,2034 @@
+sent_id = 0
+People cannot conduct any close contact.
+add [0]
+People in the surrounding area cannot conduct any close contact.
+People in the green zone cannot conduct any close contact.
+People in the green area cannot conduct any close contact.
+
+add [1]
+People in the surrounding area cannot conduct any close contact with those having hair in other colors.
+People in the surrounding area cannot conduct any close contact with those having eyes in other colors.
+People in the surrounding area cannot conduct any close contact with those having credentials in other areas.
+People in the surrounding area cannot conduct any close contact with those having credentials in other countries.
+People in the surrounding area cannot conduct any close contact with those having credentials in other colors.
+
+People in the green zone cannot conduct any close contact with those having credentials in other areas.
+People in the green zone cannot conduct any close contact with those having credentials in other countries.
+People in the green zone cannot conduct any close contact with those having eyes in other colors.
+People in the green zone cannot conduct any close contact with those having credentials in other colors.
+People in the green zone cannot conduct any close contact with those having hair in other colors.
+
+People in the green area cannot conduct any close contact with those having eyes in other colors.
+People in the green area cannot conduct any close contact with those having hair in other colors.
+People in the green area cannot conduct any close contact with those having credentials in other colors.
+People in the green area cannot conduct any close contact with those having credentials in other areas.
+
+FIN
+sent_id = 1
+Theo Walcott said he "feels like a kid again".
+add [0]
+Theo Walcott said he "feels like a kid again" after scoring his first try.
+Theo Walcott said he "feels like a kid again" after scoring his first goal.
+
+add [1]
+Theo Walcott said he "feels like a kid again" after scoring his first try since joining Southampton.
+Theo Walcott said he "feels like a kid again" after scoring his first try since leaving Southampton.
+Theo Walcott said he "feels like a kid again" after scoring his first try since rejoining Southampton.
+
+Theo Walcott said he "feels like a kid again" after scoring his first goal since joining Southampton.
+Theo Walcott said he "feels like a kid again" after scoring his first goal since rejoining Southampton.
+Theo Walcott said he "feels like a kid again" after scoring his first goal since leaving Southampton.
+
+add [2]
+Theo Walcott said he "feels like a kid again" after scoring his first try since joining Southampton in their Premier League game at Wolves.
+Theo Walcott said he "feels like a kid again" after scoring his first try since joining Southampton in their Premier League defeat at Wolves.
+Theo Walcott said he "feels like a kid again" after scoring his first try since joining Southampton in their Premier League draw at Wolves.
+Theo Walcott said he "feels like a kid again" after scoring his first try since joining Southampton in their Premier League draw at arsenal.
+Theo Walcott said he "feels like a kid again" after scoring his first try since joining Southampton in their Premier League match at Wolves.
+
+Theo Walcott said he "feels like a kid again" after scoring his first try since leaving Southampton in their Premier League defeat at Wolves.
+Theo Walcott said he "feels like a kid again" after scoring his first try since leaving Southampton in their Premier League match at Wolves.
+Theo Walcott said he "feels like a kid again" after scoring his first try since leaving Southampton in their Premier League draw at arsenal.
+Theo Walcott said he "feels like a kid again" after scoring his first try since leaving Southampton in their Premier League draw at Wolves.
+Theo Walcott said he "feels like a kid again" after scoring his first try since leaving Southampton in their Premier League game at Wolves.
+Theo Walcott said he "feels like a kid again" after scoring his first try since leaving Southampton in their Premier League win at Wolves.
+
+Theo Walcott said he "feels like a kid again" after scoring his first try since rejoining Southampton in their Premier League draw at Wolves.
+Theo Walcott said he "feels like a kid again" after scoring his first try since rejoining Southampton in their Premier League match at Wolves.
+Theo Walcott said he "feels like a kid again" after scoring his first try since rejoining Southampton in their Premier League draw at arsenal.
+Theo Walcott said he "feels like a kid again" after scoring his first try since rejoining Southampton in their Premier League victory at Wolves.
+Theo Walcott said he "feels like a kid again" after scoring his first try since rejoining Southampton in their Premier League defeat at Wolves.
+Theo Walcott said he "feels like a kid again" after scoring his first try since rejoining Southampton in their Premier League game at Wolves.
+
+Theo Walcott said he "feels like a kid again" after scoring his first goal since joining Southampton in their Premier League defeat at Wolves.
+Theo Walcott said he "feels like a kid again" after scoring his first goal since joining Southampton in their Premier League match at Wolves.
+Theo Walcott said he "feels like a kid again" after scoring his first goal since joining Southampton in their Premier League draw at arsenal.
+Theo Walcott said he "feels like a kid again" after scoring his first goal since joining Southampton in their Premier League game at Wolves.
+Theo Walcott said he "feels like a kid again" after scoring his first goal since joining Southampton in their Premier League draw at Wolves.
+
+Theo Walcott said he "feels like a kid again" after scoring his first goal since rejoining Southampton in their Premier League match at Wolves.
+Theo Walcott said he "feels like a kid again" after scoring his first goal since rejoining Southampton in their Premier League defeat at Wolves.
+Theo Walcott said he "feels like a kid again" after scoring his first goal since rejoining Southampton in their Premier League draw at arsenal.
+Theo Walcott said he "feels like a kid again" after scoring his first goal since rejoining Southampton in their Premier League draw at Wolves.
+
+Theo Walcott said he "feels like a kid again" after scoring his first goal since leaving Southampton in their Premier League match at Wolves.
+Theo Walcott said he "feels like a kid again" after scoring his first goal since leaving Southampton in their Premier League defeat at Wolves.
+Theo Walcott said he "feels like a kid again" after scoring his first goal since leaving Southampton in their Premier League game at Wolves.
+Theo Walcott said he "feels like a kid again" after scoring his first goal since leaving Southampton in their Premier League draw at arsenal.
+Theo Walcott said he "feels like a kid again" after scoring his first goal since leaving Southampton in their Premier League draw at Wolves.
+
+FIN
+sent_id = 2
+Balancing a career with being a sensation is a tightrope.
+add [0]
+Balancing a career in professional sport with being a sensation is a tightrope.
+Balancing a career in a sport with being a sensation is a tightrope.
+Balancing a career in professional sports with being a sensation is a tightrope.
+Balancing a career in professional wrestling with being a sensation is a tightrope.
+Balancing a career in the sport with being a sensation is a tightrope.
+
+add [1]
+Balancing a career in professional sport with being a social media sensation is a tightrope.
+Balancing a career in professional sport with being a national media sensation is a tightrope.
+Balancing a career in professional sport with being a major media sensation is a tightrope.
+
+Balancing a career in a sport with being a major media sensation is a tightrope.
+Balancing a career in a sport with being a social media sensation is a tightrope.
+Balancing a career in a sport with being a national media sensation is a tightrope.
+
+Balancing a career in professional sports with being a major media sensation is a tightrope.
+Balancing a career in professional sports with being a social media sensation is a tightrope.
+Balancing a career in professional sports with being a national media sensation is a tightrope.
+
+Balancing a career in professional wrestling with being a national media sensation is a tightrope.
+Balancing a career in professional wrestling with being a social media sensation is a tightrope.
+Balancing a career in professional wrestling with being a major media sensation is a tightrope.
+
+Balancing a career in the sport with being a social media sensation is a tightrope.
+Balancing a career in the sport with being a major media sensation is a tightrope.
+Balancing a career in the sport with being a national media sensation is a tightrope.
+
+add [2]
+Balancing a career in professional sport with being a social media sensation is a tightrope to me.
+Balancing a career in professional sport with being a social media sensation is a tightrope to wal.
+
+Balancing a career in professional sport with being a national media sensation is a tightrope to me.
+Balancing a career in professional sport with being a national media sensation is a tightrope to wal.
+Balancing a career in professional sport with being a national media sensation is a tightrope to him.
+
+Balancing a career in professional sport with being a major media sensation is a tightrope to me.
+Balancing a career in professional sport with being a major media sensation is a tightrope to wal.
+Balancing a career in professional sport with being a major media sensation is a tightrope to him.
+
+Balancing a career in a sport with being a major media sensation is a tightrope to wal.
+Balancing a career in a sport with being a major media sensation is a tightrope to him.
+Balancing a career in a sport with being a major media sensation is a tightrope to me.
+
+Balancing a career in a sport with being a social media sensation is a tightrope to me.
+Balancing a career in a sport with being a social media sensation is a tightrope to wal.
+
+Balancing a career in a sport with being a national media sensation is a tightrope to wal.
+Balancing a career in a sport with being a national media sensation is a tightrope to me.
+Balancing a career in a sport with being a national media sensation is a tightrope to him.
+
+Balancing a career in professional sports with being a major media sensation is a tightrope to him.
+Balancing a career in professional sports with being a major media sensation is a tightrope to wal.
+Balancing a career in professional sports with being a major media sensation is a tightrope to me.
+
+Balancing a career in professional sports with being a social media sensation is a tightrope to me.
+Balancing a career in professional sports with being a social media sensation is a tightrope to wal.
+
+Balancing a career in professional sports with being a national media sensation is a tightrope to me.
+Balancing a career in professional sports with being a national media sensation is a tightrope to him.
+Balancing a career in professional sports with being a national media sensation is a tightrope to wal.
+
+Balancing a career in professional wrestling with being a national media sensation is a tightrope to him.
+Balancing a career in professional wrestling with being a national media sensation is a tightrope to me.
+Balancing a career in professional wrestling with being a national media sensation is a tightrope to wal.
+
+Balancing a career in professional wrestling with being a social media sensation is a tightrope to her.
+Balancing a career in professional wrestling with being a social media sensation is a tightrope to wal.
+Balancing a career in professional wrestling with being a social media sensation is a tightrope to me.
+
+Balancing a career in professional wrestling with being a major media sensation is a tightrope to me.
+Balancing a career in professional wrestling with being a major media sensation is a tightrope to him.
+Balancing a career in professional wrestling with being a major media sensation is a tightrope to wal.
+
+Balancing a career in the sport with being a social media sensation is a tightrope to me.
+Balancing a career in the sport with being a social media sensation is a tightrope to wal.
+Balancing a career in the sport with being a social media sensation is a tightrope to him.
+
+Balancing a career in the sport with being a major media sensation is a tightrope to him.
+Balancing a career in the sport with being a major media sensation is a tightrope to wal.
+Balancing a career in the sport with being a major media sensation is a tightrope to me.
+
+Balancing a career in the sport with being a national media sensation is a tightrope to me.
+Balancing a career in the sport with being a national media sensation is a tightrope to him.
+Balancing a career in the sport with being a national media sensation is a tightrope to wal.
+
+FIN
+sent_id = 3
+The event was staged behind closed doors.
+add [0]
+Prior to the COVID-19 pandemic, the event was staged behind closed doors.
+Due to the COVID-19 pandemic, the event was staged behind closed doors.
+Due to the COVID-19 pandemic, the event was staged behind closed doors.
+
+add [1]
+Prior to the COVID-19 pandemic, the event was staged behind closed doors and was an all-domestic field.
+Prior to the COVID-19 pandemic, the event was staged behind closed doors and featured an all-domestic field.
+Prior to the COVID-19 pandemic, the event was staged behind closed doors and featured an open field.
+Prior to the COVID-19 pandemic, the event was staged behind closed doors and in an all-domestic field.
+Prior to the COVID-19 pandemic, the event was staged behind closed doors and had an all-domestic field.
+
+Due to the COVID-19 pandemic, the event was staged behind closed doors and was an all-domestic field.
+Due to the COVID-19 pandemic, the event was staged behind closed doors and featured an all-domestic field.
+Due to the COVID-19 pandemic, the event was staged behind closed doors and featured an all-domestic audience.
+Due to the COVID-19 pandemic, the event was staged behind closed doors and in an all-domestic field.
+Due to the COVID-19 pandemic, the event was staged behind closed doors and had an all-domestic field.
+Due to the COVID-19 pandemic, the event was staged behind closed doors and featured an open field.
+
+Due to the COVID-19 pandemic, the event was staged behind closed doors and was an all-domestic field.
+Due to the COVID-19 pandemic, the event was staged behind closed doors and featured an all-domestic field.
+Due to the COVID-19 pandemic, the event was staged behind closed doors and featured an all-domestic audience.
+Due to the COVID-19 pandemic, the event was staged behind closed doors and in an all-domestic field.
+Due to the COVID-19 pandemic, the event was staged behind closed doors and had an all-domestic field.
+Due to the COVID-19 pandemic, the event was staged behind closed doors and featured an open field.
+
+FIN
+sent_id = 4
+Teams stayed in designated hotels.
+add [0]
+Throughout the group and knockout stages, teams stayed in designated hotels.
+Throughout the group and knockout stage, teams stayed in designated hotels.
+Throughout the group and group stages, teams stayed in designated hotels.
+
+add [1]
+Throughout the group and knockout stages, teams stayed in designated hotels where frequent medical testing was conducted.
+Throughout the group and knockout stages, teams stayed in designated hotels where the medical testing was conducted.
+Throughout the group and knockout stages, teams stayed in designated hotels where frequent drug testing was conducted.
+Throughout the group and knockout stages, teams stayed in designated hotels where frequent medical treatment was conducted.
+Throughout the group and knockout stages, teams stayed in designated hotels where frequent medical testing was required.
+Throughout the group and knockout stages, teams stayed in designated hotels where frequent medical care was conducted.
+
+Throughout the group and knockout stage, teams stayed in designated hotels where frequent drug testing was conducted.
+Throughout the group and knockout stage, teams stayed in designated hotels where frequent medical care was conducted.
+Throughout the group and knockout stage, teams stayed in designated hotels where frequent medical testing was required.
+Throughout the group and knockout stage, teams stayed in designated hotels where frequent medical treatment was conducted.
+Throughout the group and knockout stage, teams stayed in designated hotels where frequent medical testing was conducted.
+Throughout the group and knockout stage, teams stayed in designated hotels where the medical testing was conducted.
+
+Throughout the group and group stages, teams stayed in designated hotels where frequent medical testing was conducted.
+Throughout the group and group stages, teams stayed in designated hotels where the medical testing was conducted.
+Throughout the group and group stages, teams stayed in designated hotels where frequent medical testing was required.
+Throughout the group and group stages, teams stayed in designated hotels where frequent medical treatment was conducted.
+Throughout the group and group stages, teams stayed in designated hotels where frequent medical care was conducted.
+Throughout the group and group stages, teams stayed in designated hotels where frequent drug testing was conducted.
+
+FIN
+sent_id = 5
+The lockdown accelerated things.
+add [0]
+The lockdown accelerated things because I was doing a bit more streaming online.
+The lockdown accelerated things because it was doing a lot more streaming online.
+The lockdown accelerated things because I was doing a lot more streaming online.
+The lockdown accelerated things because he was doing a lot more streaming online.
+The lockdown accelerated things because I was doing a lot more streaming online.
+The lockdown accelerated things because I was doing a little more streaming online.
+
+add [1]
+The lockdown accelerated things because I was doing a bit more streaming online and getting more into it.
+The lockdown accelerated things because I was doing a bit more streaming online and reading more into it.
+
+The lockdown accelerated things because it was doing a lot more streaming online and getting more into it.
+
+The lockdown accelerated things because I was doing a lot more streaming online and reading more into it.
+The lockdown accelerated things because I was doing a lot more streaming online and getting more into it.
+
+The lockdown accelerated things because he was doing a lot more streaming online and reading more into it.
+The lockdown accelerated things because he was doing a lot more streaming online and getting more into it.
+
+The lockdown accelerated things because I was doing a lot more streaming online and reading more into it.
+The lockdown accelerated things because I was doing a lot more streaming online and getting more into it.
+
+The lockdown accelerated things because I was doing a little more streaming online and getting more into it.
+The lockdown accelerated things because I was doing a little more streaming online and reading more into it.
+
+FIN
+sent_id = 6
+The launch of the competition this summer was postponed.
+add [0]
+The launch of the 100-ball competition this summer was postponed.
+The launch of the national competition this summer was postponed.
+
+add [1]
+The launch of the 100-ball competition this summer was postponed by a month.
+The launch of the 100-ball competition this summer was postponed by a year.
+The launch of the 100-ball competition this summer was postponed by a week.
+
+The launch of the national competition this summer was postponed by a year.
+The launch of the national competition this summer was postponed by a month.
+The launch of the national competition this summer was postponed by a week.
+
+add [2]
+The launch of the 100-ball competition this summer was postponed by a month because of the flu pandemic.
+The launch of the 100-ball competition this summer was postponed by a month because of the coronavirus pandemic.
+The launch of the 100-ball competition this summer was postponed by a month because of the coronavirus outbreak.
+The launch of the 100-ball competition this summer was postponed by a month because of the coronavirus epidemic.
+
+The launch of the 100-ball competition this summer was postponed by a year because of the coronavirus outbreak.
+The launch of the 100-ball competition this summer was postponed by a year because of the coronavirus epidemic.
+The launch of the 100-ball competition this summer was postponed by a year because of the coronavirus pandemic.
+The launch of the 100-ball competition this summer was postponed by a year because of the flu pandemic.
+
+The launch of the 100-ball competition this summer was postponed by a week because of the coronavirus outbreak.
+The launch of the 100-ball competition this summer was postponed by a week because of the coronavirus epidemic.
+The launch of the 100-ball competition this summer was postponed by a week because of the coronavirus pandemic.
+The launch of the 100-ball competition this summer was postponed by a week because of the flu pandemic.
+
+The launch of the national competition this summer was postponed by a year because of the coronavirus outbreak.
+The launch of the national competition this summer was postponed by a year because of the coronavirus epidemic.
+The launch of the national competition this summer was postponed by a year because of the flu pandemic.
+The launch of the national competition this summer was postponed by a year because of the coronavirus pandemic.
+
+The launch of the national competition this summer was postponed by a month because of the coronavirus pandemic.
+The launch of the national competition this summer was postponed by a month because of the coronavirus outbreak.
+The launch of the national competition this summer was postponed by a month because of the flu pandemic.
+The launch of the national competition this summer was postponed by a month because of the coronavirus epidemic.
+
+The launch of the national competition this summer was postponed by a week because of the flu pandemic.
+The launch of the national competition this summer was postponed by a week because of the coronavirus pandemic.
+The launch of the national competition this summer was postponed by a week because of the coronavirus epidemic.
+The launch of the national competition this summer was postponed by a week because of the coronavirus outbreak.
+
+FIN
+sent_id = 7
+A maximum of 4000 fans will be allowed at outdoor events.
+add [0]
+A maximum of 4000 fans will be allowed at outdoor events in the surrounding areas.
+A maximum of 4000 fans will be allowed at outdoor events in the lowest-risk area.
+A maximum of 4000 fans will be allowed at outdoor events in the lowest-risk zone.
+A maximum of 4000 fans will be allowed at outdoor events in the lowest-risk category.
+A maximum of 4000 fans will be allowed at outdoor events in the lowest-risk areas.
+
+add [1]
+A maximum of 4000 fans will be allowed at outdoor events in the surrounding areas when the four-week lockdown in England starts on 2 December.
+A maximum of 4000 fans will be allowed at outdoor events in the surrounding areas when the four-week lockdown in England begins on 2 December.
+A maximum of 4000 fans will be allowed at outdoor events in the surrounding areas when the four-week lockdown in England ends on 2 December.
+A maximum of 4000 fans will be allowed at outdoor events in the surrounding areas when the four-week season in England ends on 2 December.
+A maximum of 4000 fans will be allowed at outdoor events in the surrounding areas when the four-week ban in England ends on 2 December.
+
+A maximum of 4000 fans will be allowed at outdoor events in the lowest-risk area when the four-week season in England ends on 2 December.
+A maximum of 4000 fans will be allowed at outdoor events in the lowest-risk area when the four-week lockdown in England starts on 2 December.
+A maximum of 4000 fans will be allowed at outdoor events in the lowest-risk area when the four-week period in England ends on 2 December.
+A maximum of 4000 fans will be allowed at outdoor events in the lowest-risk area when the four-week lockdown in England begins on 2 December.
+A maximum of 4000 fans will be allowed at outdoor events in the lowest-risk area when the four-week lockdown in England ends on 2 December.
+A maximum of 4000 fans will be allowed at outdoor events in the lowest-risk area when the four-week ban in England ends on 2 December.
+
+A maximum of 4000 fans will be allowed at outdoor events in the lowest-risk zone when the four-week lockdown in England starts on 2 December.
+A maximum of 4000 fans will be allowed at outdoor events in the lowest-risk zone when the four-week lockdown in England begins on 2 December.
+A maximum of 4000 fans will be allowed at outdoor events in the lowest-risk zone when the four-week period in England ends on 2 December.
+A maximum of 4000 fans will be allowed at outdoor events in the lowest-risk zone when the four-week lockdown in England ends on 2 December.
+A maximum of 4000 fans will be allowed at outdoor events in the lowest-risk zone when the four-week season in England ends on 2 December.
+A maximum of 4000 fans will be allowed at outdoor events in the lowest-risk zone when the four-week ban in England ends on 2 December.
+
+A maximum of 4000 fans will be allowed at outdoor events in the lowest-risk category when the four-week ban in England ends on 2 December.
+A maximum of 4000 fans will be allowed at outdoor events in the lowest-risk category when the four-week lockdown in England starts on 2 December.
+A maximum of 4000 fans will be allowed at outdoor events in the lowest-risk category when the four-week season in England ends on 2 December.
+A maximum of 4000 fans will be allowed at outdoor events in the lowest-risk category when the four-week lockdown in England ends on 2 December.
+A maximum of 4000 fans will be allowed at outdoor events in the lowest-risk category when the four-week lockdown in England begins on 2 December.
+
+A maximum of 4000 fans will be allowed at outdoor events in the lowest-risk areas when the four-week period in England ends on 2 December.
+A maximum of 4000 fans will be allowed at outdoor events in the lowest-risk areas when the four-week lockdown in England ends on 2 December.
+A maximum of 4000 fans will be allowed at outdoor events in the lowest-risk areas when the four-week lockdown in England starts on 2 December.
+A maximum of 4000 fans will be allowed at outdoor events in the lowest-risk areas when the four-week ban in England ends on 2 December.
+A maximum of 4000 fans will be allowed at outdoor events in the lowest-risk areas when the four-week season in England ends on 2 December.
+A maximum of 4000 fans will be allowed at outdoor events in the lowest-risk areas when the four-week lockdown in England begins on 2 December.
+
+FIN
+sent_id = 8
+Rory McIlroy and Harry Diamond used to have a bet with each other.
+add [0]
+Rory McIlroy and his caddie Harry Diamond used to have a bet with each other.
+Rory McIlroy and his friend Harry Diamond used to have a bet with each other.
+Rory McIlroy and his father Harry Diamond used to have a bet with each other.
+Rory McIlroy and his brother Harry Diamond used to have a bet with each other.
+
+add [1]
+Rory McIlroy and his caddie Harry Diamond used to have a bet with each other during practice sessions.
+Rory McIlroy and his caddie Harry Diamond used to have a bet with each other during the rounds.
+Rory McIlroy and his caddie Harry Diamond used to have a bet with each other during practice rounds.
+
+Rory McIlroy and his friend Harry Diamond used to have a bet with each other during practice sessions.
+Rory McIlroy and his friend Harry Diamond used to have a bet with each other during practice rounds.
+Rory McIlroy and his friend Harry Diamond used to have a bet with each other during the rounds.
+
+Rory McIlroy and his father Harry Diamond used to have a bet with each other during practice rounds.
+Rory McIlroy and his father Harry Diamond used to have a bet with each other during practice games.
+Rory McIlroy and his father Harry Diamond used to have a bet with each other during the rounds.
+Rory McIlroy and his father Harry Diamond used to have a bet with each other during practice sessions.
+
+Rory McIlroy and his brother Harry Diamond used to have a bet with each other during practice sessions.
+Rory McIlroy and his brother Harry Diamond used to have a bet with each other during practice rounds.
+Rory McIlroy and his brother Harry Diamond used to have a bet with each other during the rounds.
+
+FIN
+sent_id = 9
+Saudi Arabia has rejected criticism.
+add [0]
+Saudi Arabia has rejected criticism after it was confirmed it would be its first Formula 1 race.
+Saudi Arabia has rejected criticism after it was confirmed it would host its own Formula 1 race.
+Saudi Arabia has rejected criticism after it was announced it would host its first Formula 1 race.
+Saudi Arabia has rejected criticism after it was told it would host its first Formula 1 race.
+Saudi Arabia has rejected criticism after it was confirmed it would hold its first Formula 1 race.
+Saudi Arabia has rejected criticism after it was confirmed it would host its first Formula 1 race.
+
+add [1]
+Saudi Arabia has rejected criticism after it was confirmed it would be its first Formula 1 race in 2021.
+
+Saudi Arabia has rejected criticism after it was confirmed it would host its own Formula 1 race in 2021.
+
+Saudi Arabia has rejected criticism after it was announced it would host its first Formula 1 race in 2021.
+
+Saudi Arabia has rejected criticism after it was told it would host its first Formula 1 race in 2021.
+
+Saudi Arabia has rejected criticism after it was confirmed it would hold its first Formula 1 race in 2021.
+
+Saudi Arabia has rejected criticism after it was confirmed it would host its first Formula 1 race in 2021.
+
+FIN
+sent_id = 10
+He could not produce all his power.
+add [0]
+He could not produce all his power in the previous performances.
+
+add [1]
+He could not produce all his power in the previous performances because he wanted to save energy.
+He could not produce all his power in the previous performances because he had to save energy.
+He could not produce all his power in the previous performances because he needed to save energy.
+He could not produce all his power in the previous performances because he needed to save time.
+He could not produce all his power in the previous performances because he needed to save it.
+He could not produce all his power in the previous performances because he needed to conserve energy.
+
+add [2]
+He could not produce all his power in the previous performances because he wanted to save energy for the jumps.
+
+He could not produce all his power in the previous performances because he had to save energy for the jumps.
+
+He could not produce all his power in the previous performances because he needed to save energy for the jumps.
+
+He could not produce all his power in the previous performances because he needed to save time for the jumps.
+
+He could not produce all his power in the previous performances because he needed to save it for the jumps.
+
+He could not produce all his power in the previous performances because he needed to conserve energy for the fight.
+He could not produce all his power in the previous performances because he needed to conserve energy for the jumps.
+
+FIN
+sent_id = 11
+There is a medical team, made up of more than 10 professionals.
+add [0]
+There is a medical team, made up of more than 10 professionals that is in constant contact with everyone.
+There is a medical team, made up of more than 10 professionals that is in close contact with everyone.
+There is a medical team, made up of more than 10 professionals that is in constant communication with everyone.
+There is a medical team, made up of more than 10 professionals that is in constant contact with patients.
+
+FIN
+sent_id = 12
+Zhang Zhilei produced a Hollywood finish for his first fight.
+add [0]
+Unbeaten Chinese fighter Zhang Zhilei produced a Hollywood finish for his first fight.
+Unbeaten chinese heavyweight Zhang Zhilei produced a Hollywood finish for his first fight.
+Unbeaten light heavyweight Zhang Zhilei produced a Hollywood finish for his first fight.
+Unbeaten Chinese boxer Zhang Zhilei produced a Hollywood finish for his first fight.
+Unbeaten Chinese heavyweight Zhang Zhilei produced a Hollywood finish for his first fight.
+
+add [1]
+Unbeaten Chinese fighter Zhang Zhilei produced a Hollywood finish for his first fight in nearly a decade.
+Unbeaten Chinese fighter Zhang Zhilei produced a Hollywood finish for his first fight in over a year.
+Unbeaten Chinese fighter Zhang Zhilei produced a Hollywood finish for his first fight in nearly a century.
+Unbeaten Chinese fighter Zhang Zhilei produced a Hollywood finish for his first fight in nearly a year.
+
+Unbeaten chinese heavyweight Zhang Zhilei produced a Hollywood finish for his first fight in nearly a decade.
+Unbeaten chinese heavyweight Zhang Zhilei produced a Hollywood finish for his first fight in nearly a century.
+Unbeaten chinese heavyweight Zhang Zhilei produced a Hollywood finish for his first fight in nearly a year.
+Unbeaten chinese heavyweight Zhang Zhilei produced a Hollywood finish for his first fight in over a year.
+
+Unbeaten light heavyweight Zhang Zhilei produced a Hollywood finish for his first fight in nearly a decade.
+Unbeaten light heavyweight Zhang Zhilei produced a Hollywood finish for his first fight in over a year.
+Unbeaten light heavyweight Zhang Zhilei produced a Hollywood finish for his first fight in nearly a year.
+
+Unbeaten Chinese boxer Zhang Zhilei produced a Hollywood finish for his first fight in nearly a year.
+Unbeaten Chinese boxer Zhang Zhilei produced a Hollywood finish for his first fight in nearly a century.
+Unbeaten Chinese boxer Zhang Zhilei produced a Hollywood finish for his first fight in nearly a decade.
+Unbeaten Chinese boxer Zhang Zhilei produced a Hollywood finish for his first fight in over a year.
+
+Unbeaten Chinese heavyweight Zhang Zhilei produced a Hollywood finish for his first fight in nearly a century.
+Unbeaten Chinese heavyweight Zhang Zhilei produced a Hollywood finish for his first fight in nearly a decade.
+Unbeaten Chinese heavyweight Zhang Zhilei produced a Hollywood finish for his first fight in nearly a year.
+Unbeaten Chinese heavyweight Zhang Zhilei produced a Hollywood finish for his first fight in over a year.
+
+add [2]
+Unbeaten Chinese fighter Zhang Zhilei produced a Hollywood finish for his first fight in nearly a decade on Saturday night.
+
+Unbeaten Chinese fighter Zhang Zhilei produced a Hollywood finish for his first fight in over a year on Saturday night.
+
+Unbeaten Chinese fighter Zhang Zhilei produced a Hollywood finish for his first fight in nearly a century on Saturday night.
+
+Unbeaten Chinese fighter Zhang Zhilei produced a Hollywood finish for his first fight in nearly a year on Saturday night.
+
+Unbeaten chinese heavyweight Zhang Zhilei produced a Hollywood finish for his first fight in nearly a decade on Saturday night.
+
+Unbeaten chinese heavyweight Zhang Zhilei produced a Hollywood finish for his first fight in nearly a century on Saturday night.
+
+Unbeaten chinese heavyweight Zhang Zhilei produced a Hollywood finish for his first fight in nearly a year on Saturday night.
+
+Unbeaten chinese heavyweight Zhang Zhilei produced a Hollywood finish for his first fight in over a year on Saturday night.
+
+Unbeaten light heavyweight Zhang Zhilei produced a Hollywood finish for his first fight in nearly a decade on Saturday night.
+
+Unbeaten light heavyweight Zhang Zhilei produced a Hollywood finish for his first fight in over a year on Saturday night.
+
+Unbeaten light heavyweight Zhang Zhilei produced a Hollywood finish for his first fight in nearly a year on Saturday night.
+
+Unbeaten Chinese boxer Zhang Zhilei produced a Hollywood finish for his first fight in nearly a year on Saturday night.
+
+Unbeaten Chinese boxer Zhang Zhilei produced a Hollywood finish for his first fight in nearly a century on Saturday night.
+
+Unbeaten Chinese boxer Zhang Zhilei produced a Hollywood finish for his first fight in nearly a decade on Saturday night.
+
+Unbeaten Chinese boxer Zhang Zhilei produced a Hollywood finish for his first fight in over a year on Saturday night.
+
+Unbeaten Chinese heavyweight Zhang Zhilei produced a Hollywood finish for his first fight in nearly a century on Saturday night.
+
+Unbeaten Chinese heavyweight Zhang Zhilei produced a Hollywood finish for his first fight in nearly a decade on Saturday night.
+
+Unbeaten Chinese heavyweight Zhang Zhilei produced a Hollywood finish for his first fight in nearly a year on Saturday night.
+
+Unbeaten Chinese heavyweight Zhang Zhilei produced a Hollywood finish for his first fight in over a year on Saturday night.
+
+FIN
+sent_id = 13
+Burnley secured their first win in the Premier League this season.
+add [0]
+Burnley secured their first win in the Premier League this season.
+
+add [1]
+Burnley secured their first win in the Premier League this season as victory over Crystal Palace at Turf Moor lifted them out of the relegation zone.
+Burnley secured their first win in the Premier League this season as victory over Crystal Palace at Turf Moor moved them out of the relegation zone.
+Burnley secured their first win in the Premier League this season as win over Crystal Palace at Turf Moor moved them out of the relegation zone.
+Burnley secured their first win in the Premier League this season as victory over Crystal Palace at Turf Moor took them out of the relegation zone.
+Burnley secured their first win in the Premier League this season as wins over Crystal Palace at Turf Moor moved them out of the relegation zone.
+
+FIN
+sent_id = 14
+There were times I could just hear the echo of my footsteps out there.
+add [0]
+There were times I could just hear the echo of my footsteps out there because I was running completely alone.
+There were times I could just hear the echo of my footsteps out there because I was so completely alone.
+There were times I could just hear the echo of my footsteps out there because I was running completely alone.
+There were times I could just hear the echo of my footsteps out there because I was running all alone.
+There were times I could just hear the echo of my footsteps out there because I was running completely blind.
+
+FIN
+sent_id = 15
+Imagine being forced to spend two weeks alone.
+add [0]
+Imagine being forced to spend two weeks alone in a hotel room.
+Imagine being forced to spend two weeks alone in a hospital room.
+
+add [1]
+Imagine being forced to spend two weeks alone in a hotel room outside of the biggest competition of your life.
+Imagine being forced to spend two weeks alone in a hotel room ahead of the biggest event of your life.
+Imagine being forced to spend two weeks alone in a hotel room because of the biggest competition of your life.
+Imagine being forced to spend two weeks alone in a hotel room ahead of the biggest competition of your life.
+
+Imagine being forced to spend two weeks alone in a hospital room ahead of the biggest event of your life.
+Imagine being forced to spend two weeks alone in a hospital room ahead of the biggest competition of your life.
+Imagine being forced to spend two weeks alone in a hospital room because of the biggest competition of your life.
+Imagine being forced to spend two weeks alone in a hospital room one of the biggest competition of your life.
+
+FIN
+sent_id = 16
+I was really looking forward to competing this week.
+add [0]
+I was really looking forward to competing this week but will do everything I can to return as quickly.
+I was really looking forward to competing this week but will do all I can to return as quickly.
+I was really looking forward to competing this week but will do what I can to return as quickly.
+I was really looking forward to competing this week but will do everything I can to go as quickly.
+I was really looking forward to competing this week but will do everything I can to get as quickly.
+I was really looking forward to competing this week but will do everything I can to return as quickly.
+
+add [1]
+I was really looking forward to competing this week but will do everything I can to return as quickly as possible.
+
+I was really looking forward to competing this week but will do all I can to return as quickly as possible.
+
+I was really looking forward to competing this week but will do what I can to return as quickly as possible.
+
+I was really looking forward to competing this week but will do everything I can to go as quickly as possible.
+
+I was really looking forward to competing this week but will do everything I can to get as quickly as possible.
+
+I was really looking forward to competing this week but will do everything I can to return as quickly as possible.
+
+FIN
+
+sent_id = 17
+I started feeling a bit of a sore throat.
+add [0]
+On Saturday morning, I started feeling a bit of a sore throat.
+On Saturday afternoon, I started feeling a bit of a sore throat.
+On Saturday night, I started feeling a bit of a sore throat.
+
+add [1]
+On Saturday morning after driving back from Houston, I started feeling a bit of a sore throat.
+On Saturday morning after getting back from Houston, I started feeling a bit of a sore throat.
+On Saturday morning after coming back from Houston, I started feeling a bit of a sore throat.
+
+On Saturday afternoon after getting back from Houston, I started feeling a bit of a sore throat.
+On Saturday afternoon after coming back from Houston, I started feeling a bit of a sore throat.
+On Saturday afternoon after driving back from Houston, I started feeling a bit of a sore throat.
+
+On Saturday night after driving back from Houston, I started feeling a bit of a sore throat.
+On Saturday night after getting back from Houston, I started feeling a bit of a sore throat.
+On Saturday night after coming back from Houston, I started feeling a bit of a sore throat.
+
+add [2]
+On Saturday morning after driving back from Houston, I started feeling a bit of a sore throat and a headache.
+On Saturday morning after driving back from Houston, I started feeling a bit of a sore throat and a cough.
+
+On Saturday morning after getting back from Houston, I started feeling a bit of a sore throat and a headache.
+On Saturday morning after getting back from Houston, I started feeling a bit of a sore throat and a cough.
+
+On Saturday morning after coming back from Houston, I started feeling a bit of a sore throat and a headache.
+On Saturday morning after coming back from Houston, I started feeling a bit of a sore throat and a cough.
+
+On Saturday afternoon after getting back from Houston, I started feeling a bit of a sore throat and a cough.
+On Saturday afternoon after getting back from Houston, I started feeling a bit of a sore throat and a headache.
+
+On Saturday afternoon after coming back from Houston, I started feeling a bit of a sore throat and a cough.
+On Saturday afternoon after coming back from Houston, I started feeling a bit of a sore throat and a headache.
+
+On Saturday afternoon after driving back from Houston, I started feeling a bit of a sore throat and a cough.
+On Saturday afternoon after driving back from Houston, I started feeling a bit of a sore throat and a headache.
+
+On Saturday night after driving back from Houston, I started feeling a bit of a sore throat and a cough.
+On Saturday night after driving back from Houston, I started feeling a bit of a sore throat and a headache.
+
+On Saturday night after getting back from Houston, I started feeling a bit of a sore throat and a cough.
+On Saturday night after getting back from Houston, I started feeling a bit of a sore throat and a headache.
+
+On Saturday night after coming back from Houston, I started feeling a bit of a sore throat and a cough.
+On Saturday night after coming back from Houston, I started feeling a bit of a sore throat and a headache.
+
+FIN
+sent_id = 18
+He performed really well in the past camp.
+add [0]
+He performed really well in the past camp, so that is a given.
+He performed really well in the past camp, so that is a relief.
+He performed really well in the past camp, so that is a blow.
+He performed really well in the past camp, so that is a surprise.
+
+add [1]
+He performed really well in the past camp, so that is a given but we have got it in depth.
+He performed really well in the past camp, so that is a given but we have his strength in depth.
+He performed really well in the past camp, so that is a given but we have the strength in depth.
+He performed really well in the past camp, so that is a given but we have got strength in him.
+He performed really well in the past camp, so that is a given but we have got strength in depth.
+He performed really well in the past camp, so that is a given but we have got him in depth.
+
+He performed really well in the past camp, so that is a relief but we have got it in depth.
+He performed really well in the past camp, so that is a relief but we have his strength in depth.
+He performed really well in the past camp, so that is a relief but we have the strength in depth.
+He performed really well in the past camp, so that is a relief but we have got strength in him.
+He performed really well in the past camp, so that is a relief but we have got strength in depth.
+He performed really well in the past camp, so that is a relief but we have got him in depth.
+
+He performed really well in the past camp, so that is a blow but we have got it in depth.
+He performed really well in the past camp, so that is a blow but we have got strength in depth.
+He performed really well in the past camp, so that is a blow but we have the strength in depth.
+He performed really well in the past camp, so that is a blow but we have got him in depth.
+He performed really well in the past camp, so that is a blow but we have his strength in depth.
+He performed really well in the past camp, so that is a blow but we have got strength in him.
+
+He performed really well in the past camp, so that is a surprise but we have his strength in depth.
+He performed really well in the past camp, so that is a surprise but we have got it in depth.
+He performed really well in the past camp, so that is a surprise but we have got strength in depth.
+He performed really well in the past camp, so that is a surprise but we have got strength in him.
+He performed really well in the past camp, so that is a surprise but we have got him in depth.
+He performed really well in the past camp, so that is a surprise but we have the strength in depth.
+
+FIN
+sent_id = 19
+We just carry on and focus on the next game.
+add [0]
+We just carry on and focus on the next game, the next game.
+We just carry on and focus on the next game, the next one.
+We just carry on and focus on the next game, the next day.
+We just carry on and focus on the next game, the next competition.
+
+add [1]
+We just carry on and focus on the next game, the next game and that's what we are doing.
+We just carry on and focus on the next game, the next game and that's what we're doing.
+
+We just carry on and focus on the next game, the next one and that's what we're doing.
+We just carry on and focus on the next game, the next one and that's what we are doing.
+
+We just carry on and focus on the next game, the next day and that's what we are doing.
+We just carry on and focus on the next game, the next day and that's what we're doing.
+
+We just carry on and focus on the next game, the next competition and that's what we are doing.
+We just carry on and focus on the next game, the next competition and that's what we're doing.
+
+FIN
+sent_id = 20
+She will for the first time at a training camp.
+add [0]
+She will for the first time next February at a training camp.
+She will for the first time in February at a training camp.
+
+add [1]
+She will for the first time next February at a training camp where the initial squad will start to be cut.
+She will for the first time next February at a training camp where the initial squad will need to be cut.
+She will for the first time next February at a training camp where the initial training will start to be cut.
+She will for the first time next February at a training camp where the initial squad will start to be trained.
+She will for the first time next February at a training camp where the initial squad will have to be cut.
+She will for the first time next February at a training camp where the initial squad will start to be formed.
+
+She will for the first time in February at a training camp where the initial squad will have to be cut.
+She will for the first time in February at a training camp where the initial squad will start to be trained.
+She will for the first time in February at a training camp where the initial training will start to be cut.
+She will for the first time in February at a training camp where the initial squad will start to be formed.
+She will for the first time in February at a training camp where the initial squad will need to be cut.
+She will for the first time in February at a training camp where the initial squad will start to be cut.
+
+FIN
+sent_id = 21
+Your wedding is one of the most important days.
+add [0]
+Your wedding is one of the most important days Your wedding is one of the most important days.
+Your wedding is one of the most important days Your birthday is one of the most important days.
+
+FIN
+sent_id = 22
+I really just had to self-motivate a lot out there.
+add [0]
+I really just had to self-motivate a lot out there because it was a lonely.
+
+add [1]
+I really just had to self-motivate a lot out there because it was a lonely, very quiet place.
+I really just had to self-motivate a lot out there because it was a lonely, very long run.
+I really just had to self-motivate a lot out there because it was a lonely, very quiet run.
+
+add [2]
+I really just had to self-motivate a lot out there because it was a lonely, very quiet place without people.
+I really just had to self-motivate a lot out there because it was a lonely, very quiet place without spectators.
+I really just had to self-motivate a lot out there because it was a lonely, very quiet place without me.
+
+I really just had to self-motivate a lot out there because it was a lonely, very long run without it.
+I really just had to self-motivate a lot out there because it was a lonely, very long run without spectators.
+I really just had to self-motivate a lot out there because it was a lonely, very long run without him.
+I really just had to self-motivate a lot out there because it was a lonely, very long run without her.
+I really just had to self-motivate a lot out there because it was a lonely, very long run without me.
+
+I really just had to self-motivate a lot out there because it was a lonely, very quiet run without me.
+I really just had to self-motivate a lot out there because it was a lonely, very quiet run without spectators.
+
+FIN
+sent_id = 23
+Tears welled in his eyes, but he had to keep playing.
+add [0]
+Tears welled in his eyes as the laughter bubbled up inside, but he had to keep playing.
+Tears welled in his eyes as the emotion bubbled up inside, but he had to keep playing.
+Tears welled in his eyes as the emotion bubbled up again, but he had to keep playing.
+Tears welled in his eyes as the emotion rose up inside, but he had to keep playing.
+Tears welled in his eyes as the emotion built up inside, but he had to keep playing.
+
+add [1]
+Tears welled in his eyes as the laughter bubbled up inside, but Jack Nicklaus knew he had to keep playing.
+
+Tears welled in his eyes as the emotion bubbled up inside, but Jack Nicklaus knew he had to keep playing.
+
+Tears welled in his eyes as the emotion bubbled up again, but Jack Nicklaus knew he had to keep playing.
+
+Tears welled in his eyes as the emotion rose up inside, but Jack Nicklaus knew he had to keep playing.
+
+Tears welled in his eyes as the emotion built up inside, but Jack Nicklaus knew he had to keep playing.
+
+FIN
+sent_id = 24
+Daniil Medvedev had just won the biggest title of his career.
+add [0]
+Daniil Medvedev had just won the biggest title of his career, the best victory of his career.
+Daniil Medvedev had just won the biggest title of his career, the best victory of his life.
+Daniil Medvedev had just won the biggest title of his career, the best title of his life.
+Daniil Medvedev had just won the biggest title of his career, the biggest victory of his life.
+Daniil Medvedev had just won the biggest title of his career, the best tournament of his life.
+
+add [1]
+Daniil Medvedev had just won the biggest title of his career, the best victory of his career at the ATP Finals.
+Daniil Medvedev had just won the biggest title of his career, the best victory of his career at the ATP level.
+
+Daniil Medvedev had just won the biggest title of his career, the best victory of his life at the ATP Finals.
+Daniil Medvedev had just won the biggest title of his career, the best victory of his life at the ATP level.
+Daniil Medvedev had just won the biggest title of his career, the best victory of his life at the ATP tour.
+
+Daniil Medvedev had just won the biggest title of his career, the best title of his life at the ATP level.
+Daniil Medvedev had just won the biggest title of his career, the best title of his life at the ATP Finals.
+Daniil Medvedev had just won the biggest title of his career, the best title of his life at the ATP tour.
+
+Daniil Medvedev had just won the biggest title of his career, the biggest victory of his life at the ATP level.
+Daniil Medvedev had just won the biggest title of his career, the biggest victory of his life at the ATP tour.
+Daniil Medvedev had just won the biggest title of his career, the biggest victory of his life at the ATP Finals.
+
+Daniil Medvedev had just won the biggest title of his career, the best tournament of his life at the ATP Finals.
+Daniil Medvedev had just won the biggest title of his career, the best tournament of his life at the ATP level.
+Daniil Medvedev had just won the biggest title of his career, the best tournament of his life at the ATP tour.
+
+add [2]
+Daniil Medvedev had just won the biggest title of his career, the best victory of his career at the ATP Finals, but did not participate.
+Daniil Medvedev had just won the biggest title of his career, the best victory of his career at the ATP Finals, but did not celebrate.
+Daniil Medvedev had just won the biggest title of his career, the best victory of his career at the ATP Finals, but did not play.
+Daniil Medvedev had just won the biggest title of his career, the best victory of his career at the ATP Finals, but did not qualify.
+
+Daniil Medvedev had just won the biggest title of his career, the best victory of his career at the ATP level, but did not advance.
+Daniil Medvedev had just won the biggest title of his career, the best victory of his career at the ATP level, but did not participate.
+Daniil Medvedev had just won the biggest title of his career, the best victory of his career at the ATP level, but did not qualify.
+Daniil Medvedev had just won the biggest title of his career, the best victory of his career at the ATP level, but did not play.
+Daniil Medvedev had just won the biggest title of his career, the best victory of his career at the ATP level, but did not celebrate.
+
+Daniil Medvedev had just won the biggest title of his career, the best victory of his life at the ATP Finals, but did not play.
+Daniil Medvedev had just won the biggest title of his career, the best victory of his life at the ATP Finals, but did not qualify.
+Daniil Medvedev had just won the biggest title of his career, the best victory of his life at the ATP Finals, but did not participate.
+Daniil Medvedev had just won the biggest title of his career, the best victory of his life at the ATP Finals, but did not celebrate.
+
+Daniil Medvedev had just won the biggest title of his career, the best victory of his life at the ATP level, but did not participate.
+Daniil Medvedev had just won the biggest title of his career, the best victory of his life at the ATP level, but did not play.
+Daniil Medvedev had just won the biggest title of his career, the best victory of his life at the ATP level, but did not celebrate.
+Daniil Medvedev had just won the biggest title of his career, the best victory of his life at the ATP level, but did not qualify.
+
+Daniil Medvedev had just won the biggest title of his career, the best victory of his life at the ATP tour, but did not participate.
+Daniil Medvedev had just won the biggest title of his career, the best victory of his life at the ATP tour, but did not qualify.
+Daniil Medvedev had just won the biggest title of his career, the best victory of his life at the ATP tour, but did not play.
+Daniil Medvedev had just won the biggest title of his career, the best victory of his life at the ATP tour, but did not celebrate.
+
+Daniil Medvedev had just won the biggest title of his career, the best title of his life at the ATP level, but did not participate.
+Daniil Medvedev had just won the biggest title of his career, the best title of his life at the ATP level, but did not celebrate.
+Daniil Medvedev had just won the biggest title of his career, the best title of his life at the ATP level, but did not play.
+Daniil Medvedev had just won the biggest title of his career, the best title of his life at the ATP level, but did not qualify.
+
+Daniil Medvedev had just won the biggest title of his career, the best title of his life at the ATP Finals, but did not celebrate.
+Daniil Medvedev had just won the biggest title of his career, the best title of his life at the ATP Finals, but did not play.
+Daniil Medvedev had just won the biggest title of his career, the best title of his life at the ATP Finals, but did not participate.
+Daniil Medvedev had just won the biggest title of his career, the best title of his life at the ATP Finals, but did not qualify.
+
+Daniil Medvedev had just won the biggest title of his career, the best title of his life at the ATP tour, but did not play.
+Daniil Medvedev had just won the biggest title of his career, the best title of his life at the ATP tour, but did not celebrate.
+Daniil Medvedev had just won the biggest title of his career, the best title of his life at the ATP tour, but did not qualify.
+Daniil Medvedev had just won the biggest title of his career, the best title of his life at the ATP tour, but did not participate.
+
+Daniil Medvedev had just won the biggest title of his career, the biggest victory of his life at the ATP level, but did not qualify.
+Daniil Medvedev had just won the biggest title of his career, the biggest victory of his life at the ATP level, but did not participate.
+Daniil Medvedev had just won the biggest title of his career, the biggest victory of his life at the ATP level, but did not celebrate.
+Daniil Medvedev had just won the biggest title of his career, the biggest victory of his life at the ATP level, but did not play.
+
+Daniil Medvedev had just won the biggest title of his career, the biggest victory of his life at the ATP tour, but did not celebrate.
+Daniil Medvedev had just won the biggest title of his career, the biggest victory of his life at the ATP tour, but did not play.
+Daniil Medvedev had just won the biggest title of his career, the biggest victory of his life at the ATP tour, but did not qualify.
+Daniil Medvedev had just won the biggest title of his career, the biggest victory of his life at the ATP tour, but did not participate.
+
+Daniil Medvedev had just won the biggest title of his career, the biggest victory of his life at the ATP Finals, but did not celebrate.
+Daniil Medvedev had just won the biggest title of his career, the biggest victory of his life at the ATP Finals, but did not participate.
+Daniil Medvedev had just won the biggest title of his career, the biggest victory of his life at the ATP Finals, but did not qualify.
+Daniil Medvedev had just won the biggest title of his career, the biggest victory of his life at the ATP Finals, but did not play.
+
+Daniil Medvedev had just won the biggest title of his career, the best tournament of his life at the ATP Finals, but did not participate.
+Daniil Medvedev had just won the biggest title of his career, the best tournament of his life at the ATP Finals, but did not celebrate.
+Daniil Medvedev had just won the biggest title of his career, the best tournament of his life at the ATP Finals, but did not qualify.
+Daniil Medvedev had just won the biggest title of his career, the best tournament of his life at the ATP Finals, but did not play.
+
+Daniil Medvedev had just won the biggest title of his career, the best tournament of his life at the ATP level, but did not celebrate.
+Daniil Medvedev had just won the biggest title of his career, the best tournament of his life at the ATP level, but did not participate.
+Daniil Medvedev had just won the biggest title of his career, the best tournament of his life at the ATP level, but did not qualify.
+Daniil Medvedev had just won the biggest title of his career, the best tournament of his life at the ATP level, but did not play.
+
+Daniil Medvedev had just won the biggest title of his career, the best tournament of his life at the ATP tour, but did not qualify.
+Daniil Medvedev had just won the biggest title of his career, the best tournament of his life at the ATP tour, but did not participate.
+Daniil Medvedev had just won the biggest title of his career, the best tournament of his life at the ATP tour, but did not celebrate.
+Daniil Medvedev had just won the biggest title of his career, the best tournament of his life at the ATP tour, but did not play.
+
+FIN
+sent_id = 25
+The dancing classes he took recently have really given him a better understanding.
+add [0]
+I think the dancing classes he took recently have really given him a better understanding.
+I think the dancing classes he took recently have really given him a better understanding.
+I guess the dancing classes he took recently have really given him a better understanding.
+
+add [1]
+I think the dancing and acting classes he took recently have really given him a better understanding.
+I think the dancing and music classes he took recently have really given him a better understanding.
+I think the dancing and singing classes he took recently have really given him a better understanding.
+
+I think the dancing and acting classes he took recently have really given him a better understanding.
+I think the dancing and music classes he took recently have really given him a better understanding.
+I think the dancing and singing classes he took recently have really given him a better understanding.
+
+I guess the dancing and music classes he took recently have really given him a better understanding.
+I guess the dancing and acting classes he took recently have really given him a better understanding.
+I guess the dancing and singing classes he took recently have really given him a better understanding.
+
+add [2]
+I think the dancing and acting classes he took recently have really given him a better understanding of music and artistic performance.
+I think the dancing and acting classes he took recently have really given him a better understanding of music and artistic expression.
+I think the dancing and acting classes he took recently have really given him a better understanding of life and artistic expression.
+I think the dancing and acting classes he took recently have really given him a better understanding of music and facial expression.
+
+I think the dancing and music classes he took recently have really given him a better understanding of life and artistic expression.
+I think the dancing and music classes he took recently have really given him a better understanding of culture and artistic expression.
+I think the dancing and music classes he took recently have really given him a better understanding of music and artistic expression.
+I think the dancing and music classes he took recently have really given him a better understanding of art and artistic expression.
+I think the dancing and music classes he took recently have really given him a better understanding of music and musical expression.
+I think the dancing and music classes he took recently have really given him a better understanding of music and artistic performance.
+
+I think the dancing and singing classes he took recently have really given him a better understanding of music and artistic performance.
+I think the dancing and singing classes he took recently have really given him a better understanding of music and facial expression.
+I think the dancing and singing classes he took recently have really given him a better understanding of life and artistic expression.
+I think the dancing and singing classes he took recently have really given him a better understanding of music and artistic expression.
+I think the dancing and singing classes he took recently have really given him a better understanding of music and musical expression.
+I think the dancing and singing classes he took recently have really given him a better understanding of culture and artistic expression.
+
+I think the dancing and acting classes he took recently have really given him a better understanding of music and artistic performance.
+I think the dancing and acting classes he took recently have really given him a better understanding of music and artistic expression.
+I think the dancing and acting classes he took recently have really given him a better understanding of life and artistic expression.
+I think the dancing and acting classes he took recently have really given him a better understanding of music and facial expression.
+
+I think the dancing and music classes he took recently have really given him a better understanding of life and artistic expression.
+I think the dancing and music classes he took recently have really given him a better understanding of culture and artistic expression.
+I think the dancing and music classes he took recently have really given him a better understanding of music and artistic expression.
+I think the dancing and music classes he took recently have really given him a better understanding of art and artistic expression.
+I think the dancing and music classes he took recently have really given him a better understanding of music and musical expression.
+I think the dancing and music classes he took recently have really given him a better understanding of music and artistic performance.
+
+I think the dancing and singing classes he took recently have really given him a better understanding of music and artistic performance.
+I think the dancing and singing classes he took recently have really given him a better understanding of music and facial expression.
+I think the dancing and singing classes he took recently have really given him a better understanding of life and artistic expression.
+I think the dancing and singing classes he took recently have really given him a better understanding of music and artistic expression.
+I think the dancing and singing classes he took recently have really given him a better understanding of music and musical expression.
+I think the dancing and singing classes he took recently have really given him a better understanding of culture and artistic expression.
+
+I guess the dancing and music classes he took recently have really given him a better understanding of life and artistic expression.
+I guess the dancing and music classes he took recently have really given him a better understanding of music and artistic expression.
+I guess the dancing and music classes he took recently have really given him a better understanding of art and artistic expression.
+I guess the dancing and music classes he took recently have really given him a better understanding of music and facial expression.
+
+I guess the dancing and acting classes he took recently have really given him a better understanding of music and facial expression.
+I guess the dancing and acting classes he took recently have really given him a better understanding of life and artistic expression.
+I guess the dancing and acting classes he took recently have really given him a better understanding of music and artistic expression.
+
+I guess the dancing and singing classes he took recently have really given him a better understanding of music and facial expression.
+I guess the dancing and singing classes he took recently have really given him a better understanding of music and artistic expression.
+I guess the dancing and singing classes he took recently have really given him a better understanding of life and artistic expression.
+
+FIN
+sent_id = 26
+Tickets for the final were in hot demand.
+add [0]
+With all the current and previous knockout matches played behind closed door, tickets for the final were in hot demand.
+With all the group and the knockout matches played behind closed door, tickets for the final were in hot demand.
+With all the group and previous group matches played behind closed door, tickets for the final were in hot demand.
+With all the group and previous knockout matches played behind closed door, tickets for the final were in hot demand.
+With all the group and previous knockout games played behind closed door, tickets for the final were in hot demand.
+With all the group and previous round matches played behind closed door, tickets for the final were in hot demand.
+
+add [1]
+With all the current and previous knockout matches played behind closed door, tickets for the final were in extremely hot demand.
+With all the current and previous knockout matches played behind closed door, tickets for the final were in very hot demand.
+With all the current and previous knockout matches played behind closed door, tickets for the final were in seriously hot demand.
+
+With all the group and the knockout matches played behind closed door, tickets for the final were in seriously hot demand.
+With all the group and the knockout matches played behind closed door, tickets for the final were in high hot demand.
+With all the group and the knockout matches played behind closed door, tickets for the final were in extremely hot demand.
+With all the group and the knockout matches played behind closed door, tickets for the final were in such hot demand.
+With all the group and the knockout matches played behind closed door, tickets for the final were in very hot demand.
+
+With all the group and previous group matches played behind closed door, tickets for the final were in high hot demand.
+With all the group and previous group matches played behind closed door, tickets for the final were in extremely hot demand.
+With all the group and previous group matches played behind closed door, tickets for the final were in seriously hot demand.
+With all the group and previous group matches played behind closed door, tickets for the final were in very hot demand.
+
+With all the group and previous knockout matches played behind closed door, tickets for the final were in high hot demand.
+With all the group and previous knockout matches played behind closed door, tickets for the final were in very hot demand.
+With all the group and previous knockout matches played behind closed door, tickets for the final were in extremely hot demand.
+With all the group and previous knockout matches played behind closed door, tickets for the final were in seriously hot demand.
+
+With all the group and previous knockout games played behind closed door, tickets for the final were in extremely hot demand.
+With all the group and previous knockout games played behind closed door, tickets for the final were in seriously hot demand.
+With all the group and previous knockout games played behind closed door, tickets for the final were in high hot demand.
+With all the group and previous knockout games played behind closed door, tickets for the final were in very hot demand.
+
+With all the group and previous round matches played behind closed door, tickets for the final were in very hot demand.
+With all the group and previous round matches played behind closed door, tickets for the final were in high hot demand.
+With all the group and previous round matches played behind closed door, tickets for the final were in seriously hot demand.
+With all the group and previous round matches played behind closed door, tickets for the final were in extremely hot demand.
+
+FIN
+sent_id = 27
+He rented two houses, moving between the two.
+add [0]
+He rented two houses for the week of the championship, moving between the two.
+He rented two houses for the rest of the championship, moving between the two.
+He rented two houses for the remainder of the championship, moving between the two.
+He rented two houses for the week of the wedding, moving between the two.
+He rented two houses for the duration of the championship, moving between the two.
+
+add [1]
+He rented two houses for the week of the championship, moving between the two so nobody would know where he was.
+He rented two houses for the week of the championship, moving between the two so she would know where he was.
+He rented two houses for the week of the championship, moving between the two so people would know where he was.
+He rented two houses for the week of the championship, moving between the two so everyone would know where he was.
+He rented two houses for the week of the championship, moving between the two so nobody would see where he was.
+
+He rented two houses for the rest of the championship, moving between the two so everyone would know where he was.
+He rented two houses for the rest of the championship, moving between the two so nobody would see where he was.
+He rented two houses for the rest of the championship, moving between the two so she would know where he was.
+He rented two houses for the rest of the championship, moving between the two so nobody would know where he was.
+He rented two houses for the rest of the championship, moving between the two so people would know where he was.
+
+He rented two houses for the remainder of the championship, moving between the two so people would know where he was.
+He rented two houses for the remainder of the championship, moving between the two so she would know where he was.
+He rented two houses for the remainder of the championship, moving between the two so nobody would see where he was.
+He rented two houses for the remainder of the championship, moving between the two so nobody would know where he was.
+
+He rented two houses for the week of the wedding, moving between the two so nobody would see where he was.
+He rented two houses for the week of the wedding, moving between the two so people would know where he was.
+He rented two houses for the week of the wedding, moving between the two so she would know where he was.
+He rented two houses for the week of the wedding, moving between the two so everyone would know where he was.
+He rented two houses for the week of the wedding, moving between the two so nobody would know where he was.
+
+He rented two houses for the duration of the championship, moving between the two so nobody would know where he was.
+He rented two houses for the duration of the championship, moving between the two so people would know where he was.
+He rented two houses for the duration of the championship, moving between the two so nobody would see where he was.
+He rented two houses for the duration of the championship, moving between the two so everyone would know where he was.
+
+FIN
+sent_id = 28
+Compensation has now been agreed between all parties.
+add [0]
+Salford announced that compensation has now been agreed between all parties.
+Salford say that compensation has now been agreed between all parties.
+Salford said that compensation has now been agreed between all parties.
+
+add [1]
+Salford announced that compensation has now been agreed between all parties and have started the arbitration process.
+Salford announced that compensation has now been agreed between all parties and have completed the recruitment process.
+Salford announced that compensation has now been agreed between all parties and have started the recruitment process.
+
+Salford say that compensation has now been agreed between all parties and have started the legal process.
+Salford say that compensation has now been agreed between all parties and have improved the recruitment process.
+Salford say that compensation has now been agreed between all parties and have started the recruitment process.
+
+Salford said that compensation has now been agreed between all parties and have started the arbitration process.
+Salford said that compensation has now been agreed between all parties and have improved the recruitment process.
+Salford said that compensation has now been agreed between all parties and have started the legal process.
+Salford said that compensation has now been agreed between all parties and have completed the recruitment process.
+Salford said that compensation has now been agreed between all parties and have started the recruitment process.
+
+add [2]
+Salford announced that compensation has now been agreed between all parties and have started the arbitration process for a new head coach.
+Salford announced that compensation has now been agreed between all parties and have started the arbitration process for a new head judge.
+
+Salford announced that compensation has now been agreed between all parties and have completed the recruitment process for a new head coach.
+
+Salford announced that compensation has now been agreed between all parties and have started the recruitment process for a new head coach.
+
+Salford say that compensation has now been agreed between all parties and have started the legal process for a new head coach.
+Salford say that compensation has now been agreed between all parties and have started the legal process for a new head office.
+Salford say that compensation has now been agreed between all parties and have started the legal process for a new head judge.
+
+Salford say that compensation has now been agreed between all parties and have improved the recruitment process for a new head coach.
+
+Salford say that compensation has now been agreed between all parties and have started the recruitment process for a new head coach.
+
+Salford said that compensation has now been agreed between all parties and have started the arbitration process for a new head judge.
+Salford said that compensation has now been agreed between all parties and have started the arbitration process for a new head coach.
+
+Salford said that compensation has now been agreed between all parties and have improved the recruitment process for a new head coach.
+
+Salford said that compensation has now been agreed between all parties and have started the legal process for a new head judge.
+Salford said that compensation has now been agreed between all parties and have started the legal process for a new head coach.
+
+Salford said that compensation has now been agreed between all parties and have completed the recruitment process for a new head coach.
+
+Salford said that compensation has now been agreed between all parties and have started the recruitment process for a new head coach.
+
+FIN
+sent_id = 29
+But Albon is not giving them that opportunity.
+add [0]
+But Albon is not giving them that opportunity at the moment.
+
+add [1]
+But Albon is not giving them that opportunity at the moment, and his position in the team hangs by a thread.
+But Albon is not giving them that opportunity at the moment, and his future in the team hangs by a thread.
+But Albon is not giving them that opportunity at the moment, and his place in the team hangs by a thread.
+
+FIN
+sent_id = 30
+The horse received immediate veterinary care.
+add [0]
+The horse received immediate veterinary care, however he was unable to be treated.
+The horse received immediate veterinary care, however he was able to be saved.
+The horse received immediate veterinary care, but he was unable to be saved.
+The horse received immediate veterinary care, however he was not to be saved.
+The horse received immediate veterinary care, however he was unable to be saved.
+
+add [1]
+The horse received immediate veterinary care, however he was unable to be treated due to the nature of the injuries sustained.
+The horse received immediate veterinary care, however he was unable to be treated due to the nature of the injury caused.
+The horse received immediate veterinary care, however he was unable to be treated due to the nature of the injury sustained.
+The horse received immediate veterinary care, however he was unable to be treated due to the extent of the injury sustained.
+The horse received immediate veterinary care, however he was unable to be treated due to the severity of the injury sustained.
+The horse received immediate veterinary care, however he was unable to be treated due to the nature of the injury itself.
+
+The horse received immediate veterinary care, however he was able to be saved due to the nature of the injury caused.
+The horse received immediate veterinary care, however he was able to be saved due to the nature of the injury sustained.
+The horse received immediate veterinary care, however he was able to be saved due to the severity of the injury sustained.
+The horse received immediate veterinary care, however he was able to be saved due to the nature of the injury itself.
+The horse received immediate veterinary care, however he was able to be saved due to the extent of the injury sustained.
+The horse received immediate veterinary care, however he was able to be saved due to the nature of the injuries sustained.
+
+The horse received immediate veterinary care, but he was unable to be saved due to the nature of the injury sustained.
+The horse received immediate veterinary care, but he was unable to be saved due to the nature of the injuries sustained.
+The horse received immediate veterinary care, but he was unable to be saved due to the nature of the injury caused.
+The horse received immediate veterinary care, but he was unable to be saved due to the extent of the injury sustained.
+The horse received immediate veterinary care, but he was unable to be saved due to the severity of the injury sustained.
+The horse received immediate veterinary care, but he was unable to be saved due to the nature of the injury itself.
+
+The horse received immediate veterinary care, however he was not to be saved due to the nature of the injuries sustained.
+The horse received immediate veterinary care, however he was not to be saved due to the extent of the injury sustained.
+The horse received immediate veterinary care, however he was not to be saved due to the nature of the injury caused.
+The horse received immediate veterinary care, however he was not to be saved due to the severity of the injury sustained.
+The horse received immediate veterinary care, however he was not to be saved due to the nature of the injury sustained.
+The horse received immediate veterinary care, however he was not to be saved due to the nature of the injury itself.
+
+The horse received immediate veterinary care, however he was unable to be saved due to the nature of the injury itself.
+The horse received immediate veterinary care, however he was unable to be saved due to the nature of the injuries sustained.
+The horse received immediate veterinary care, however he was unable to be saved due to the severity of the injury sustained.
+The horse received immediate veterinary care, however he was unable to be saved due to the nature of the injury caused.
+The horse received immediate veterinary care, however he was unable to be saved due to the nature of the injury sustained.
+The horse received immediate veterinary care, however he was unable to be saved due to the extent of the injury sustained.
+
+FIN
+sent_id = 31
+I know his season wasn't the easiest one.
+add [0]
+I know his season wasn't the easiest one, whereas I have to say my season has actually been going quite well.
+I know his season wasn't the easiest one, whereas I have to say my season has actually been going so well.
+I know his season wasn't the easiest one, whereas I have to say my season has actually been going quite well.
+I know his season wasn't the easiest one, whereas I have to say my season has not been going quite well.
+I know his season wasn't the easiest one, whereas I have to say my season has actually been going pretty well.
+I know his season wasn't the easiest one, whereas I have to admit my season has actually been going quite well.
+
+FIN
+sent_id = 32
+I just need an opportunity to become the best in the world.
+add [0]
+I just need an opportunity to become the best in the world, which I do believe that Matchroom is able to provide.
+I just need an opportunity to become the best in the world, which I also believe that Matchroom is able to provide.
+I just need an opportunity to become the best in the world, which I truly believe that Matchroom is able to provide.
+I just need an opportunity to become the best in the world, which I strongly believe that Matchroom is able to provide.
+I just need an opportunity to become the best in the world, which I strongly hope that Matchroom is able to provide.
+I just need an opportunity to become the best in the world, which I strongly believe that Matchroom is able to provide.
+
+FIN
+sent_id = 33
+The Champions League returns.
+add [0]
+The Champions League returns after a three-week break.
+The Champions League returns after a winter break.
+The Champions League returns after a short break.
+The Champions League returns after a long break.
+The Champions League returns after a three-week hiatus.
+
+add [1]
+The Champions League returns after a three-week break as we hit the business end of the group stages.
+The Champions League returns after a three-week break as we reach the business end of the group stages.
+The Champions League returns after a three-week break as we reach the other end of the group stages.
+The Champions League returns after a three-week break as we reach the very end of the group stages.
+The Champions League returns after a three-week break as we reach the final end of the group stages.
+The Champions League returns after a three-week break as we reach the top end of the group stages.
+
+The Champions League returns after a winter break as we reach the top end of the group stages.
+The Champions League returns after a winter break as we reach the final end of the group stages.
+The Champions League returns after a winter break as we reach the business end of the group stages.
+The Champions League returns after a winter break as we hit the business end of the group stages.
+The Champions League returns after a winter break as we reach the other end of the group stages.
+The Champions League returns after a winter break as we reach the very end of the group stages.
+
+The Champions League returns after a short break as we reach the very end of the group stages.
+The Champions League returns after a short break as we hit the business end of the group stages.
+The Champions League returns after a short break as we reach the final end of the group stages.
+The Champions League returns after a short break as we reach the other end of the group stages.
+The Champions League returns after a short break as we reach the top end of the group stages.
+The Champions League returns after a short break as we reach the business end of the group stages.
+
+The Champions League returns after a long break as we reach the business end of the group stages.
+The Champions League returns after a long break as we reach the business stage of the group stages.
+The Champions League returns after a long break as we reach the final end of the group stages.
+The Champions League returns after a long break as we reach the very end of the group stages.
+The Champions League returns after a long break as we hit the business end of the group stages.
+The Champions League returns after a long break as we reach the other end of the group stages.
+
+The Champions League returns after a three-week hiatus as we reach the business stages of the group stages.
+The Champions League returns after a three-week hiatus as we reach the very end of the group stages.
+The Champions League returns after a three-week hiatus as we reach the business stage of the group stages.
+The Champions League returns after a three-week hiatus as we reach the business end of the group stages.
+The Champions League returns after a three-week hiatus as we reach the other end of the group stages.
+The Champions League returns after a three-week hiatus as we reach the final end of the group stages.
+
+FIN
+sent_id = 34
+The restrictions relating to Denmark have been implemented.
+add [0]
+The restrictions relating to Denmark have been implemented because of concerns over a possible coronavirus strain.
+The restrictions relating to Denmark have been implemented because of concerns over a potential coronavirus strain.
+The restrictions relating to Denmark have been implemented because of concerns over a new coronavirus outbreak.
+The restrictions relating to Denmark have been implemented because of concerns over a new coronavirus epidemic.
+The restrictions relating to Denmark have been implemented because of concern over a new coronavirus strain.
+The restrictions relating to Denmark have been implemented because of concerns over a new coronavirus strain.
+
+FIN
+sent_id = 35
+They talked about Patrick Mahomes' arm rather than his decision.
+add [0]
+To his frustration, they talked about Patrick Mahomes' arm rather than his decision.
+To his surprise, they talked about Patrick Mahomes' arm rather than his decision.
+
+add [1]
+To his frustration, they talked about Patrick Mahomes' arm rather than his decision making as if brawn really mattered more than brain.
+To his frustration, they talked about Patrick Mahomes' arm rather than his decision making as if it somehow mattered more than brain.
+To his frustration, they talked about Patrick Mahomes' arm rather than his decision making as if brawn had mattered more than brain.
+To his frustration, they talked about Patrick Mahomes' arm rather than his decision making as if brawn somehow mattered more than brain.
+To his frustration, they talked about Patrick Mahomes' arm rather than his decision making as if brawn somehow was more than brain.
+To his frustration, they talked about Patrick Mahomes' arm rather than his decision making as if brawn somehow mattered more than that.
+
+To his surprise, they talked about Patrick Mahomes' arm rather than his decision making as if it somehow mattered more than brain.
+To his surprise, they talked about Patrick Mahomes' arm rather than his decision making as if brawn had mattered more than brain.
+To his surprise, they talked about Patrick Mahomes' arm rather than his decision making as if brawn somehow was more than brain.
+To his surprise, they talked about Patrick Mahomes' arm rather than his decision making as if brawn somehow mattered more than that.
+To his surprise, they talked about Patrick Mahomes' arm rather than his decision making as if brawn somehow mattered more than brain.
+To his surprise, they talked about Patrick Mahomes' arm rather than his decision making as if brawn really mattered more than brain.
+
+FIN
+sent_id = 36
+Everybody just talked about my arm.
+add [0]
+Everybody just talked about my arm instead of talking about how I was making the right choice.
+Everybody just talked about my arm instead of talking about how I was making the right decisions.
+Everybody just talked about my arm instead of talking about how I was making the right decision.
+Everybody just talked about my arm instead of talking about how I was making the wrong decisions.
+Everybody just talked about my arm instead of talking about how I was making the right decisions.
+
+add [1]
+Everybody just talked about my arm instead of talking about how I was making the right choice, going to the right place.
+Everybody just talked about my arm instead of talking about how I was making the right choice, coming to the right place.
+Everybody just talked about my arm instead of talking about how I was making the right choice, going to the right school.
+
+Everybody just talked about my arm instead of talking about how I was making the right decisions, going to the right people.
+Everybody just talked about my arm instead of talking about how I was making the right decisions, getting to the right place.
+Everybody just talked about my arm instead of talking about how I was making the right decisions, going to the right school.
+Everybody just talked about my arm instead of talking about how I was making the right decisions, going to the right place.
+Everybody just talked about my arm instead of talking about how I was making the right decisions, going to the right places.
+Everybody just talked about my arm instead of talking about how I was making the right decisions, coming to the right place.
+
+Everybody just talked about my arm instead of talking about how I was making the right decision, getting to the right place.
+Everybody just talked about my arm instead of talking about how I was making the right decision, coming to the right place.
+Everybody just talked about my arm instead of talking about how I was making the right decision, going to the right place.
+Everybody just talked about my arm instead of talking about how I was making the right decision, going to the right school.
+
+Everybody just talked about my arm instead of talking about how I was making the wrong decisions, going to the right place.
+Everybody just talked about my arm instead of talking about how I was making the wrong decisions, coming to the right place.
+Everybody just talked about my arm instead of talking about how I was making the wrong decisions, going to the right people.
+Everybody just talked about my arm instead of talking about how I was making the wrong decisions, going to the wrong place.
+Everybody just talked about my arm instead of talking about how I was making the wrong decisions, going to the right places.
+Everybody just talked about my arm instead of talking about how I was making the wrong decisions, getting to the right place.
+
+Everybody just talked about my arm instead of talking about how I was making the right decisions, getting to the right place.
+Everybody just talked about my arm instead of talking about how I was making the right decisions, going to the right places.
+Everybody just talked about my arm instead of talking about how I was making the right decisions, going to the right school.
+Everybody just talked about my arm instead of talking about how I was making the right decisions, going to the right place.
+Everybody just talked about my arm instead of talking about how I was making the right decisions, going to the right people.
+Everybody just talked about my arm instead of talking about how I was making the right decisions, coming to the right place.
+
+FIN
+sent_id = 37
+But there is one Woods landmark McIlroy can emulate at the Masters.
+add [0]
+But there is one Woods landmark McIlroy can emulate at the Masters, which was held until November.
+But there is one Woods landmark McIlroy can emulate at the Masters, which was played until November.
+But there is one Woods landmark McIlroy can emulate at the Masters, which was open until November.
+But there is one Woods landmark McIlroy can emulate at the Masters, which was postponed until November.
+
+add [1]
+But there is one Woods landmark McIlroy can emulate at the Masters, which was held until November because of the flu pandemic.
+But there is one Woods landmark McIlroy can emulate at the Masters, which was held until November because of the coronavirus pandemic.
+But there is one Woods landmark McIlroy can emulate at the Masters, which was held until November because of the coronavirus outbreak.
+But there is one Woods landmark McIlroy can emulate at the Masters, which was held until November because of the aids pandemic.
+
+But there is one Woods landmark McIlroy can emulate at the Masters, which was played until November because of the coronavirus pandemic.
+But there is one Woods landmark McIlroy can emulate at the Masters, which was played until November because of the flu pandemic.
+But there is one Woods landmark McIlroy can emulate at the Masters, which was played until November because of the coronavirus epidemic.
+But there is one Woods landmark McIlroy can emulate at the Masters, which was played until November because of the coronavirus outbreak.
+But there is one Woods landmark McIlroy can emulate at the Masters, which was played until November because of the influenza pandemic.
+
+But there is one Woods landmark McIlroy can emulate at the Masters, which was open until November because of the flu pandemic.
+But there is one Woods landmark McIlroy can emulate at the Masters, which was open until November because of the coronavirus pandemic.
+But there is one Woods landmark McIlroy can emulate at the Masters, which was open until November because of the coronavirus outbreak.
+But there is one Woods landmark McIlroy can emulate at the Masters, which was open until November because of the aids pandemic.
+But there is one Woods landmark McIlroy can emulate at the Masters, which was open until November because of the coronavirus epidemic.
+
+But there is one Woods landmark McIlroy can emulate at the Masters, which was postponed until November because of the flu pandemic.
+But there is one Woods landmark McIlroy can emulate at the Masters, which was postponed until November because of the coronavirus outbreak.
+But there is one Woods landmark McIlroy can emulate at the Masters, which was postponed until November because of the influenza pandemic.
+But there is one Woods landmark McIlroy can emulate at the Masters, which was postponed until November because of the coronavirus pandemic.
+
+FIN
+sent_id = 38
+The initial few days were difficult to deal with.
+add [0]
+He said the initial few days were difficult to deal with.
+He says the initial few days were difficult to deal with.
+He found the initial few days were difficult to deal with.
+He says the initial few days were difficult to deal with.
+
+add [1]
+He said the initial few days were difficult to deal with as players adjusted to their current settings.
+He said the initial few days were difficult to deal with as players adapted to their new settings.
+He said the initial few days were difficult to deal with as people adjusted to their new settings.
+He said the initial few days were difficult to deal with as players adjust to their new settings.
+He said the initial few days were difficult to deal with as players adjusted to their new settings.
+He said the initial few days were difficult to deal with as they adjusted to their new settings.
+
+He says the initial few days were difficult to deal with as they adjusted to their new settings.
+He says the initial few days were difficult to deal with as players adapted to their new settings.
+He says the initial few days were difficult to deal with as players adjust to their new settings.
+He says the initial few days were difficult to deal with as players adjusted to their current settings.
+He says the initial few days were difficult to deal with as people adjusted to their new settings.
+He says the initial few days were difficult to deal with as players adjusted to their new settings.
+
+He found the initial few days were difficult to deal with as players adjusted to their new settings.
+He found the initial few days were difficult to deal with as players adjusted to their current settings.
+He found the initial few days were difficult to deal with as they adjusted to their new settings.
+He found the initial few days were difficult to deal with as players adapted to their new settings.
+He found the initial few days were difficult to deal with as people adjusted to their new settings.
+He found the initial few days were difficult to deal with as he adjusted to their new settings.
+
+He says the initial few days were difficult to deal with as they adjusted to their new settings.
+He says the initial few days were difficult to deal with as players adapted to their new settings.
+He says the initial few days were difficult to deal with as players adjust to their new settings.
+He says the initial few days were difficult to deal with as players adjusted to their current settings.
+He says the initial few days were difficult to deal with as people adjusted to their new settings.
+He says the initial few days were difficult to deal with as players adjusted to their new settings.
+
+add [2]
+He said the initial few days were difficult to deal with as players adjusted to their current settings and suffered from time lag.
+He said the initial few days were difficult to deal with as players adjusted to their current settings and suffered from jet lag.
+
+He said the initial few days were difficult to deal with as players adapted to their new settings and suffered from time lag.
+He said the initial few days were difficult to deal with as players adapted to their new settings and suffered from jet lag.
+
+He said the initial few days were difficult to deal with as people adjusted to their new settings and suffered from jet lag.
+He said the initial few days were difficult to deal with as people adjusted to their new settings and suffered from jet shock.
+
+He said the initial few days were difficult to deal with as players adjust to their new settings and suffered from time lag.
+He said the initial few days were difficult to deal with as players adjust to their new settings and suffered from jet lag.
+He said the initial few days were difficult to deal with as players adjust to their new settings and suffer from jet lag.
+
+He said the initial few days were difficult to deal with as players adjusted to their new settings and suffered from time lag.
+He said the initial few days were difficult to deal with as players adjusted to their new settings and suffered from jet lag.
+
+He said the initial few days were difficult to deal with as they adjusted to their new settings and suffered from jet fatigue.
+He said the initial few days were difficult to deal with as they adjusted to their new settings and suffered from jet lag.
+He said the initial few days were difficult to deal with as they adjusted to their new settings and suffered from jet shock.
+
+He says the initial few days were difficult to deal with as they adjusted to their new settings and suffered from jet lag.
+He says the initial few days were difficult to deal with as they adjusted to their new settings and suffered from jet shock.
+
+He says the initial few days were difficult to deal with as players adapted to their new settings and suffered from jet lag.
+He says the initial few days were difficult to deal with as players adapted to their new settings and suffered from time lag.
+
+He says the initial few days were difficult to deal with as players adjust to their new settings and suffered from time lag.
+He says the initial few days were difficult to deal with as players adjust to their new settings and suffer from jet lag.
+He says the initial few days were difficult to deal with as players adjust to their new settings and suffered from jet lag.
+
+He says the initial few days were difficult to deal with as players adjusted to their current settings and suffered from jet lag.
+He says the initial few days were difficult to deal with as players adjusted to their current settings and suffered from time lag.
+
+He says the initial few days were difficult to deal with as people adjusted to their new settings and suffered from jet lag.
+He says the initial few days were difficult to deal with as people adjusted to their new settings and suffered from jet shock.
+
+He says the initial few days were difficult to deal with as players adjusted to their new settings and suffered from jet lag.
+He says the initial few days were difficult to deal with as players adjusted to their new settings and suffered from time lag.
+
+He found the initial few days were difficult to deal with as players adjusted to their new settings and suffered from time lag.
+He found the initial few days were difficult to deal with as players adjusted to their new settings and suffered from jet lag.
+
+He found the initial few days were difficult to deal with as players adjusted to their current settings and suffered from jet fever.
+He found the initial few days were difficult to deal with as players adjusted to their current settings and suffered from time lag.
+He found the initial few days were difficult to deal with as players adjusted to their current settings and suffered from jet lag.
+
+He found the initial few days were difficult to deal with as they adjusted to their new settings and suffered from jet fatigue.
+He found the initial few days were difficult to deal with as they adjusted to their new settings and suffered from jet lag.
+He found the initial few days were difficult to deal with as they adjusted to their new settings and suffered from jet shock.
+
+He found the initial few days were difficult to deal with as players adapted to their new settings and suffered from jet lag.
+He found the initial few days were difficult to deal with as players adapted to their new settings and suffered from time lag.
+
+He found the initial few days were difficult to deal with as people adjusted to their new settings and suffered from jet shock.
+He found the initial few days were difficult to deal with as people adjusted to their new settings and suffered from jet lag.
+
+He found the initial few days were difficult to deal with as he adjusted to their new settings and suffered from jet fatigue.
+He found the initial few days were difficult to deal with as he adjusted to their new settings and suffered from jet shock.
+He found the initial few days were difficult to deal with as he adjusted to their new settings and suffered from jet lag.
+
+He says the initial few days were difficult to deal with as they adjusted to their new settings and suffered from jet lag.
+He says the initial few days were difficult to deal with as they adjusted to their new settings and suffered from jet shock.
+
+He says the initial few days were difficult to deal with as players adapted to their new settings and suffered from jet lag.
+He says the initial few days were difficult to deal with as players adapted to their new settings and suffered from time lag.
+
+He says the initial few days were difficult to deal with as players adjust to their new settings and suffered from time lag.
+He says the initial few days were difficult to deal with as players adjust to their new settings and suffer from jet lag.
+He says the initial few days were difficult to deal with as players adjust to their new settings and suffered from jet lag.
+
+He says the initial few days were difficult to deal with as players adjusted to their current settings and suffered from jet lag.
+He says the initial few days were difficult to deal with as players adjusted to their current settings and suffered from time lag.
+
+He says the initial few days were difficult to deal with as people adjusted to their new settings and suffered from jet lag.
+He says the initial few days were difficult to deal with as people adjusted to their new settings and suffered from jet shock.
+
+He says the initial few days were difficult to deal with as players adjusted to their new settings and suffered from jet lag.
+He says the initial few days were difficult to deal with as players adjusted to their new settings and suffered from time lag.
+
+FIN
+sent_id = 39
+The days were really, really odd.
+add [0]
+The days were really, really odd because your sleep schedule is screwed up.
+The days were really, really odd because your sleep schedule is messed up.
+The days were really, really odd because your work schedule is messed up.
+The days were really, really odd because your sleep pattern is messed up.
+
+add [1]
+The days were really, really odd because your sleep schedule is screwed up and you're out of contact with people.
+The days were really, really odd because your sleep schedule is screwed up and you are out of contact with everyone.
+The days were really, really odd because your sleep schedule is screwed up and you're out of contact with anyone.
+The days were really, really odd because your sleep schedule is screwed up and you're out of contact with everyone.
+The days were really, really odd because your sleep schedule is screwed up and you're out of touch with everyone.
+
+The days were really, really odd because your sleep schedule is messed up and you're out of touch with everyone.
+The days were really, really odd because your sleep schedule is messed up and you're out of contact with anyone.
+The days were really, really odd because your sleep schedule is messed up and you are out of contact with everyone.
+The days were really, really odd because your sleep schedule is messed up and you were out of contact with everyone.
+The days were really, really odd because your sleep schedule is messed up and you're out of contact with people.
+The days were really, really odd because your sleep schedule is messed up and you're out of contact with everyone.
+
+The days were really, really odd because your work schedule is messed up and you're out of contact with everyone.
+The days were really, really odd because your work schedule is messed up and you're out of contact with anyone.
+The days were really, really odd because your work schedule is messed up and you were out of contact with everyone.
+The days were really, really odd because your work schedule is messed up and you're out of touch with everyone.
+The days were really, really odd because your work schedule is messed up and you're out of contact with people.
+The days were really, really odd because your work schedule is messed up and you are out of contact with everyone.
+
+The days were really, really odd because your sleep pattern is messed up and you're out of contact with anyone.
+The days were really, really odd because your sleep pattern is messed up and you're out of contact with everyone.
+The days were really, really odd because your sleep pattern is messed up and you were out of contact with everyone.
+The days were really, really odd because your sleep pattern is messed up and you're out of contact with people.
+The days were really, really odd because your sleep pattern is messed up and you are out of contact with everyone.
+The days were really, really odd because your sleep pattern is messed up and you're out of touch with everyone.
+
+add [2]
+The days were really, really odd because your sleep schedule is screwed up and you're out of contact with people anymore.
+The days were really, really odd because your sleep schedule is screwed up and you're out of contact with people again.
+The days were really, really odd because your sleep schedule is screwed up and you're out of contact with people else.
+
+The days were really, really odd because your sleep schedule is screwed up and you are out of contact with everyone else.
+
+The days were really, really odd because your sleep schedule is screwed up and you're out of contact with anyone else.
+
+The days were really, really odd because your sleep schedule is screwed up and you're out of contact with everyone else.
+
+The days were really, really odd because your sleep schedule is screwed up and you're out of touch with everyone else.
+
+The days were really, really odd because your sleep schedule is messed up and you're out of touch with everyone else.
+
+The days were really, really odd because your sleep schedule is messed up and you're out of contact with anyone else.
+
+The days were really, really odd because your sleep schedule is messed up and you are out of contact with everyone else.
+
+The days were really, really odd because your sleep schedule is messed up and you were out of contact with everyone else.
+
+The days were really, really odd because your sleep schedule is messed up and you're out of contact with people else.
+The days were really, really odd because your sleep schedule is messed up and you're out of contact with people again.
+The days were really, really odd because your sleep schedule is messed up and you're out of contact with people anymore.
+
+The days were really, really odd because your sleep schedule is messed up and you're out of contact with everyone else.
+
+The days were really, really odd because your work schedule is messed up and you're out of contact with everyone else.
+
+The days were really, really odd because your work schedule is messed up and you're out of contact with anyone else.
+
+The days were really, really odd because your work schedule is messed up and you were out of contact with everyone else.
+
+The days were really, really odd because your work schedule is messed up and you're out of touch with everyone else.
+
+The days were really, really odd because your work schedule is messed up and you're out of contact with people else.
+The days were really, really odd because your work schedule is messed up and you're out of contact with people anymore.
+
+The days were really, really odd because your work schedule is messed up and you are out of contact with everyone else.
+
+The days were really, really odd because your sleep pattern is messed up and you're out of contact with anyone else.
+
+The days were really, really odd because your sleep pattern is messed up and you're out of contact with everyone else.
+
+The days were really, really odd because your sleep pattern is messed up and you were out of contact with everyone else.
+
+The days were really, really odd because your sleep pattern is messed up and you're out of contact with people else.
+The days were really, really odd because your sleep pattern is messed up and you're out of contact with people again.
+The days were really, really odd because your sleep pattern is messed up and you're out of contact with people anymore.
+
+The days were really, really odd because your sleep pattern is messed up and you are out of contact with everyone else.
+
+The days were really, really odd because your sleep pattern is messed up and you're out of touch with everyone else.
+
+FIN
+sent_id = 40
+Today is the day that gets our sport back.
+add [0]
+For our players, today is the day that gets our sport back.
+For our part, today is the day that gets our sport back.
+For our people, today is the day that gets our sport back.
+
+add [1]
+For our players, for our coaches, today is the day that gets our sport back.
+For our players, for our fans, today is the day that gets our sport back.
+
+For our part, for our part, today is the day that gets our sport back.
+For our part, for our fans, today is the day that gets our sport back.
+
+For our people, for our country, today is the day that gets our sport back.
+For our people, for our fans, today is the day that gets our sport back.
+For our people, for our people, today is the day that gets our sport back.
+For our people, for our nation, today is the day that gets our sport back.
+
+add [2]
+For our players, for our coaches and for all involved in table tennis, today is the day that gets our sport back.
+For our players, for our coaches and for everyone involved in the tennis, today is the day that gets our sport back.
+For our players, for our coaches and for those involved in table tennis, today is the day that gets our sport back.
+For our players, for our coaches and for everyone involved in table games, today is the day that gets our sport back.
+For our players, for our coaches and for everyone else in table tennis, today is the day that gets our sport back.
+For our players, for our coaches and for everyone involved in table tennis, today is the day that gets our sport back.
+
+For our players, for our fans and for everyone involved in table games, today is the day that gets our sport back.
+For our players, for our fans and for everyone involved in table tennis, today is the day that gets our sport back.
+For our players, for our fans and for everyone involved in professional tennis, today is the day that gets our sport back.
+For our players, for our fans and for all involved in table tennis, today is the day that gets our sport back.
+For our players, for our fans and for those involved in table tennis, today is the day that gets our sport back.
+For our players, for our fans and for everyone interested in table tennis, today is the day that gets our sport back.
+
+For our part, for our part and for all involved in table tennis, today is the day that gets our sport back.
+For our part, for our part and for everyone involved in table games, today is the day that gets our sport back.
+For our part, for our part and for those involved in table tennis, today is the day that gets our sport back.
+For our part, for our part and for everyone involved in table sports, today is the day that gets our sport back.
+For our part, for our part and for everyone involved in the tennis, today is the day that gets our sport back.
+For our part, for our part and for everyone involved in table tennis, today is the day that gets our sport back.
+
+For our part, for our fans and for everyone involved in professional tennis, today is the day that gets our sport back.
+For our part, for our fans and for all involved in table tennis, today is the day that gets our sport back.
+For our part, for our fans and for those involved in table tennis, today is the day that gets our sport back.
+For our part, for our fans and for everyone involved in table tennis, today is the day that gets our sport back.
+For our part, for our fans and for everyone involved in table games, today is the day that gets our sport back.
+For our part, for our fans and for everyone interested in table tennis, today is the day that gets our sport back.
+
+For our people, for our country and for everyone involved in international tennis, today is the day that gets our sport back.
+For our people, for our country and for everyone interested in table tennis, today is the day that gets our sport back.
+For our people, for our country and for everyone involved in table tennis, today is the day that gets our sport back.
+For our people, for our country and for everyone involved in lawn tennis, today is the day that gets our sport back.
+For our people, for our country and for all involved in table tennis, today is the day that gets our sport back.
+For our people, for our country and for those involved in table tennis, today is the day that gets our sport back.
+
+For our people, for our fans and for everyone involved in table tennis, today is the day that gets our sport back.
+For our people, for our fans and for all involved in table tennis, today is the day that gets our sport back.
+For our people, for our fans and for everyone involved in table games, today is the day that gets our sport back.
+For our people, for our fans and for everyone interested in table tennis, today is the day that gets our sport back.
+For our people, for our fans and for those involved in table tennis, today is the day that gets our sport back.
+For our people, for our fans and for everyone involved in professional tennis, today is the day that gets our sport back.
+
+For our people, for our people and for everyone involved in the tennis, today is the day that gets our sport back.
+For our people, for our people and for everyone involved in international tennis, today is the day that gets our sport back.
+For our people, for our people and for everyone involved in table tennis, today is the day that gets our sport back.
+For our people, for our people and for those involved in table tennis, today is the day that gets our sport back.
+For our people, for our people and for all involved in table tennis, today is the day that gets our sport back.
+For our people, for our people and for everyone involved in table games, today is the day that gets our sport back.
+
+For our people, for our nation and for all involved in table tennis, today is the day that gets our sport back.
+For our people, for our nation and for everyone involved in table tennis, today is the day that gets our sport back.
+For our people, for our nation and for those involved in table tennis, today is the day that gets our sport back.
+For our people, for our nation and for everyone interested in table tennis, today is the day that gets our sport back.
+For our people, for our nation and for everyone involved in international tennis, today is the day that gets our sport back.
+For our people, for our nation and for everyone involved in lawn tennis, today is the day that gets our sport back.
+
+FIN
+sent_id = 41
+He cannot see many young players matching his success any time soon.
+add [0]
+China's Ding Junhui says he cannot see many young players matching his success any time soon.
+China's Ding Junhui said he cannot see many young players matching his success any time soon.
+
+add [1]
+China's Ding Junhui says he cannot see many young players from his team matching his success any time soon.
+China's Ding Junhui says he cannot see many young players from his country matching his success any time soon.
+
+China's Ding Junhui said he cannot see many young players from his country matching his success any time soon.
+China's Ding Junhui said he cannot see many young players from his team matching his success any time soon.
+
+add [2]
+China's Ding Junhui says he cannot see many young players from his team matching his success any time soon because they are not talented enough.
+China's Ding Junhui says he cannot see many young players from his team matching his success any time soon because they are not good enough.
+China's Ding Junhui says he cannot see many young players from his team matching his success any time soon because they are not dedicated enough.
+China's Ding Junhui says he cannot see many young players from his team matching his success any time soon because they are not dedicated players.
+
+China's Ding Junhui says he cannot see many young players from his country matching his success any time soon because they are not dedicated players.
+China's Ding Junhui says he cannot see many young players from his country matching his success any time soon because they are not good enough.
+China's Ding Junhui says he cannot see many young players from his country matching his success any time soon because they are not dedicated enough.
+China's Ding Junhui says he cannot see many young players from his country matching his success any time soon because they are not talented enough.
+
+China's Ding Junhui said he cannot see many young players from his country matching his success any time soon because they are not dedicated players.
+China's Ding Junhui said he cannot see many young players from his country matching his success any time soon because they are not good enough.
+China's Ding Junhui said he cannot see many young players from his country matching his success any time soon because they are not strong enough.
+China's Ding Junhui said he cannot see many young players from his country matching his success any time soon because they are not talented enough.
+China's Ding Junhui said he cannot see many young players from his country matching his success any time soon because they are not dedicated enough.
+
+China's Ding Junhui said he cannot see many young players from his team matching his success any time soon because they are not dedicated players.
+China's Ding Junhui said he cannot see many young players from his team matching his success any time soon because they are not good enough.
+China's Ding Junhui said he cannot see many young players from his team matching his success any time soon because they are not dedicated enough.
+China's Ding Junhui said he cannot see many young players from his team matching his success any time soon because they are not talented enough.
+China's Ding Junhui said he cannot see many young players from his team matching his success any time soon because they are not strong enough.
+
+FIN
+sent_id = 42
+I have already had a few calls with the tour's medical team.
+add [0]
+I have already had a few calls with the tour's medical team and with all the support.
+I have already had a few calls with the tour's medical team and appreciate all the help.
+I have already had a few calls with the tour's medical team and appreciate all the information.
+I have already had a few calls with the tour's medical team and received all the support.
+I have already had a few calls with the tour's medical team and got all the support.
+I have already had a few calls with the tour's medical team and appreciate all the support.
+
+add [1]
+I have already had a few calls with the tour's medical team and with all the support and guidance they have given me.
+I have already had a few calls with the tour's medical team and with all the support and advice they have given me.
+I have already had a few calls with the tour's medical team and with all the support and support they have given me.
+I have already had a few calls with the tour's medical team and with all the support and help they have given me.
+I have already had a few calls with the tour's medical team and with all the support and encouragement they have given me.
+
+I have already had a few calls with the tour's medical team and appreciate all the help and guidance they have given me.
+I have already had a few calls with the tour's medical team and appreciate all the help and support they have given me.
+
+I have already had a few calls with the tour's medical team and appreciate all the information and advice they have given me.
+I have already had a few calls with the tour's medical team and appreciate all the information and support they have given me.
+I have already had a few calls with the tour's medical team and appreciate all the information and help they have given me.
+I have already had a few calls with the tour's medical team and appreciate all the information and guidance they have given me.
+I have already had a few calls with the tour's medical team and appreciate all the information and information they have given me.
+
+I have already had a few calls with the tour's medical team and received all the support and advice they have given me.
+I have already had a few calls with the tour's medical team and received all the support and support they have given me.
+I have already had a few calls with the tour's medical team and received all the support and information they have given me.
+I have already had a few calls with the tour's medical team and received all the support and guidance they have given me.
+
+I have already had a few calls with the tour's medical team and got all the support and guidance they have given me.
+I have already had a few calls with the tour's medical team and got all the support and help they have given me.
+I have already had a few calls with the tour's medical team and got all the support and advice they have given me.
+I have already had a few calls with the tour's medical team and got all the support and support they have given me.
+I have already had a few calls with the tour's medical team and got all the support and information they have given me.
+
+I have already had a few calls with the tour's medical team and appreciate all the support and encouragement they have given me.
+I have already had a few calls with the tour's medical team and appreciate all the support and guidance they have given me.
+I have already had a few calls with the tour's medical team and appreciate all the support and support they have given me.
+I have already had a few calls with the tour's medical team and appreciate all the support and help they have given me.
+
+FIN
+sent_id = 43
+Lando streams online means fans see him in his bedroom.
+add [0]
+The beauty of the video that Lando streams online means fans see him in his bedroom.
+The beauty of the fact that Lando streams online means fans see him in his bedroom.
+The beauty of the music that Lando streams online means fans see him in his bedroom.
+The addition of the fact that Lando streams online means fans see him in his bedroom.
+The fact of the fact that Lando streams online means fans see him in his bedroom.
+
+add [1]
+The beauty of the video that Lando streams online means fans see him in his bedroom and they have that close proximity to him.
+The beauty of the video that Lando streams online means fans see him in his bedroom and they have that same affiliation to him.
+The beauty of the video that Lando streams online means fans see him in his bedroom and they have that close connection to him.
+The beauty of the video that Lando streams online means fans see him in his bedroom and they have that close affiliation to him.
+
+The beauty of the fact that Lando streams online means fans see him in his bedroom and they have that close proximity to him.
+The beauty of the fact that Lando streams online means fans see him in his bedroom and they have that particular affiliation to him.
+The beauty of the fact that Lando streams online means fans see him in his bedroom and they have that close affiliation to him.
+The beauty of the fact that Lando streams online means fans see him in his bedroom and they have that close connection to him.
+The beauty of the fact that Lando streams online means fans see him in his bedroom and they have that same affiliation to him.
+
+The beauty of the music that Lando streams online means fans see him in his bedroom and they have that close affiliation to him.
+The beauty of the music that Lando streams online means fans see him in his bedroom and they have that close connection to him.
+The beauty of the music that Lando streams online means fans see him in his bedroom and they have that same affiliation to him.
+The beauty of the music that Lando streams online means fans see him in his bedroom and they have that close proximity to him.
+
+The addition of the fact that Lando streams online means fans see him in his bedroom and they have that close affiliation to him.
+The addition of the fact that Lando streams online means fans see him in his bedroom and they have that particular affiliation to him.
+The addition of the fact that Lando streams online means fans see him in his bedroom and they have that close proximity to him.
+The addition of the fact that Lando streams online means fans see him in his bedroom and they have that close connection to him.
+The addition of the fact that Lando streams online means fans see him in his bedroom and they have that same affiliation to him.
+
+The fact of the fact that Lando streams online means fans see him in his bedroom and they have that close connection to him.
+The fact of the fact that Lando streams online means fans see him in his bedroom and they have that same affiliation to him.
+The fact of the fact that Lando streams online means fans see him in his bedroom and they have that close proximity to him.
+The fact of the fact that Lando streams online means fans see him in his bedroom and they have that close affiliation to him.
+The fact of the fact that Lando streams online means fans see him in his bedroom and they have that particular affiliation to him.
+
+FIN
+sent_id = 44
+I am deeply honored to share a connection with Paine College.
+add [0]
+I am deeply honored to share a connection with Paine College and these people.
+I am deeply honored to share a connection with Paine College and these scholarships.
+
+add [1]
+I am deeply honored to share a connection with Paine College and these people, which will bring life-changing opportunities.
+I am deeply honored to share a connection with Paine College and these people, which will provide unique opportunities.
+I am deeply honored to share a connection with Paine College and these people, which will provide life-changing opportunities.
+I am deeply honored to share a connection with Paine College and these people, which will provide great opportunities.
+I am deeply honored to share a connection with Paine College and these people, which will create life-changing opportunities.
+I am deeply honored to share a connection with Paine College and these people, which will be life-changing opportunities.
+
+I am deeply honored to share a connection with Paine College and these scholarships, which will provide many opportunities.
+I am deeply honored to share a connection with Paine College and these scholarships, which will be life-changing opportunities.
+I am deeply honored to share a connection with Paine College and these scholarships, which will provide unique opportunities.
+I am deeply honored to share a connection with Paine College and these scholarships, which will provide life-changing opportunities.
+
+add [2]
+I am deeply honored to share a connection with Paine College and these people, which will bring life-changing opportunities for the scholarship recipients.
+I am deeply honored to share a connection with Paine College and these people, which will bring life-changing opportunities for the deserving students.
+I am deeply honored to share a connection with Paine College and these people, which will bring life-changing opportunities for the award recipients.
+I am deeply honored to share a connection with Paine College and these people, which will bring life-changing opportunities for the deserving recipients.
+
+I am deeply honored to share a connection with Paine College and these people, which will provide unique opportunities for the deserving students.
+I am deeply honored to share a connection with Paine College and these people, which will provide unique opportunities for the award recipients.
+I am deeply honored to share a connection with Paine College and these people, which will provide unique opportunities for the deserving recipients.
+I am deeply honored to share a connection with Paine College and these people, which will provide unique opportunities for the scholarship recipients.
+
+I am deeply honored to share a connection with Paine College and these people, which will provide life-changing opportunities for the scholarship recipients.
+I am deeply honored to share a connection with Paine College and these people, which will provide life-changing opportunities for the deserving recipients.
+I am deeply honored to share a connection with Paine College and these people, which will provide life-changing opportunities for the deserving students.
+I am deeply honored to share a connection with Paine College and these people, which will provide life-changing opportunities for the award recipients.
+
+I am deeply honored to share a connection with Paine College and these people, which will provide great opportunities for the scholarship recipients.
+I am deeply honored to share a connection with Paine College and these people, which will provide great opportunities for the deserving students.
+I am deeply honored to share a connection with Paine College and these people, which will provide great opportunities for the deserving recipients.
+I am deeply honored to share a connection with Paine College and these people, which will provide great opportunities for the award recipients.
+
+I am deeply honored to share a connection with Paine College and these people, which will create life-changing opportunities for the award recipients.
+I am deeply honored to share a connection with Paine College and these people, which will create life-changing opportunities for the scholarship recipients.
+I am deeply honored to share a connection with Paine College and these people, which will create life-changing opportunities for the deserving students.
+I am deeply honored to share a connection with Paine College and these people, which will create life-changing opportunities for the deserving recipients.
+
+I am deeply honored to share a connection with Paine College and these people, which will be life-changing opportunities for the award recipients.
+I am deeply honored to share a connection with Paine College and these people, which will be life-changing opportunities for the deserving students.
+I am deeply honored to share a connection with Paine College and these people, which will be life-changing opportunities for the new recipients.
+I am deeply honored to share a connection with Paine College and these people, which will be life-changing opportunities for the deserving recipients.
+
+I am deeply honored to share a connection with Paine College and these scholarships, which will provide many opportunities for the deserving students.
+I am deeply honored to share a connection with Paine College and these scholarships, which will provide many opportunities for the deserving recipients.
+I am deeply honored to share a connection with Paine College and these scholarships, which will provide many opportunities for the scholarship recipients.
+
+I am deeply honored to share a connection with Paine College and these scholarships, which will be life-changing opportunities for the deserving recipients.
+I am deeply honored to share a connection with Paine College and these scholarships, which will be life-changing opportunities for the deserving students.
+I am deeply honored to share a connection with Paine College and these scholarships, which will be life-changing opportunities for the scholarship recipients.
+
+I am deeply honored to share a connection with Paine College and these scholarships, which will provide unique opportunities for the scholarship recipients.
+I am deeply honored to share a connection with Paine College and these scholarships, which will provide unique opportunities for the deserving recipients.
+I am deeply honored to share a connection with Paine College and these scholarships, which will provide unique opportunities for the award recipients.
+I am deeply honored to share a connection with Paine College and these scholarships, which will provide unique opportunities for the deserving students.
+
+I am deeply honored to share a connection with Paine College and these scholarships, which will provide life-changing opportunities for the deserving students.
+I am deeply honored to share a connection with Paine College and these scholarships, which will provide life-changing opportunities for the deserving recipients.
+I am deeply honored to share a connection with Paine College and these scholarships, which will provide life-changing opportunities for the scholarship recipients.
+
+FIN
+sent_id = 45
+They closed out the game with back up quarterback.
+add [0]
+Such was the team dominance, they closed out the game with back up quarterback.
+Such was the Saints dominance, they closed out the game with back up quarterback.
+It was the Saints dominance, they closed out the game with back up quarterback.
+
+add [1]
+Such was the team dominance, they closed out the game with back up quarterback and former Buccaneers starter Jameis Winston on the field.
+Such was the team dominance, they closed out the game with back up quarterback and former Buccaneers starter Jameis Winston taking the field.
+Such was the team dominance, they closed out the game with back up quarterback and former Buccaneers player Jameis Winston taking the field.
+Such was the team dominance, they closed out the game with back up quarterback and future Buccaneers starter Jameis Winston taking the field.
+Such was the team dominance, they closed out the game with back up quarterback and former Buccaneers starter Jameis Winston taking the lead.
+Such was the team dominance, they closed out the game with back up quarterback and former Buccaneers teammate Jameis Winston taking the field.
+
+Such was the Saints dominance, they closed out the game with back up quarterback and future Buccaneers starter Jameis Winston taking the field.
+Such was the Saints dominance, they closed out the game with back up quarterback and former Buccaneers starter Jameis Winston taking the field.
+Such was the Saints dominance, they closed out the game with back up quarterback and former Buccaneers player Jameis Winston taking the field.
+Such was the Saints dominance, they closed out the game with back up quarterback and former saints starter Jameis Winston taking the field.
+Such was the Saints dominance, they closed out the game with back up quarterback and former Buccaneers star Jameis Winston taking the field.
+Such was the Saints dominance, they closed out the game with back up quarterback and former Buccaneers teammate Jameis Winston taking the field.
+
+It was the Saints dominance, they closed out the game with back up quarterback and former Buccaneers starter Jameis Winston taking the field.
+It was the Saints dominance, they closed out the game with back up quarterback and former saints starter Jameis Winston taking the field.
+It was the Saints dominance, they closed out the game with back up quarterback and former Buccaneers teammate Jameis Winston taking the field.
+It was the Saints dominance, they closed out the game with back up quarterback and future Buccaneers starter Jameis Winston taking the field.
+It was the Saints dominance, they closed out the game with back up quarterback and former Buccaneers player Jameis Winston taking the field.
+It was the Saints dominance, they closed out the game with back up quarterback and former Buccaneers star Jameis Winston taking the field.
+
+FIN
+sent_id = 46
+The pandemic has affected most athletes in the world.
+add [0]
+The pandemic has affected most athletes in the world, and we are sorry.
+The pandemic has affected most athletes in the world, and we are lucky.
+The pandemic has affected most athletes in the world, and we are devastated.
+
+add [1]
+The pandemic has affected most athletes in the world, and we are sorry so I will do my best to prepare for the Olympics.
+The pandemic has affected most athletes in the world, and we are sorry so I will try my best to prepare for the Olympics.
+The pandemic has affected most athletes in the world, and we are sorry so I will try my best to prepare for the Olympics.
+The pandemic has affected most athletes in the world, and we are sorry so I will try my best to qualify for the Olympics.
+The pandemic has affected most athletes in the world, and we are sorry so I will try my hardest to prepare for the Olympics.
+
+The pandemic has affected most athletes in the world, and we are lucky so I will try my best to prepare for the Olympics.
+The pandemic has affected most athletes in the world, and we are lucky so I will try my best to prepare for the Olympics.
+The pandemic has affected most athletes in the world, and we are lucky so I will try my hardest to prepare for the Olympics.
+The pandemic has affected most athletes in the world, and we are lucky so I will do my best to prepare for the Olympics.
+The pandemic has affected most athletes in the world, and we are lucky so I will try my best to qualify for the Olympics.
+
+The pandemic has affected most athletes in the world, and we are devastated so I will do my best to prepare for the Olympics.
+The pandemic has affected most athletes in the world, and we are devastated so I will try my hardest to prepare for the Olympics.
+The pandemic has affected most athletes in the world, and we are devastated so I will try my best to prepare for the Olympics.
+The pandemic has affected most athletes in the world, and we are devastated so I will try my best to prepare for the Olympics.
+The pandemic has affected most athletes in the world, and we are devastated so I will try my best to qualify for the Olympics.
+
+FIN
+sent_id = 47
+My physical strength will not allow me to fight with my teammates anymore.
+add [0]
+As a veteran of only 37 years of age, my physical strength will not allow me to fight with my teammates anymore.
+As a veteran of over 37 years of age, my physical strength will not allow me to fight with my teammates anymore.
+As a veteran of nearly 37 years of combat, my physical strength will not allow me to fight with my teammates anymore.
+As a veteran of the 37 years of age, my physical strength will not allow me to fight with my teammates anymore.
+As a veteran of nearly 37 years of age, my physical strength will not allow me to fight with my teammates anymore.
+As a man of nearly 37 years of age, my physical strength will not allow me to fight with my teammates anymore.
+
+add [1]
+As a veteran of only 37 years of age, my physical strength and endurance will not allow me to fight with my teammates anymore.
+As a veteran of only 37 years of age, my physical strength and injuries will not allow me to fight with my teammates anymore.
+
+As a veteran of over 37 years of age, my physical strength and endurance will not allow me to fight with my teammates anymore.
+As a veteran of over 37 years of age, my physical strength and injuries will not allow me to fight with my teammates anymore.
+As a veteran of over 37 years of age, my physical strength and determination will not allow me to fight with my teammates anymore.
+
+As a veteran of nearly 37 years of combat, my physical strength and endurance will not allow me to fight with my teammates anymore.
+As a veteran of nearly 37 years of combat, my physical strength and injuries will not allow me to fight with my teammates anymore.
+
+As a veteran of the 37 years of age, my physical strength and endurance will not allow me to fight with my teammates anymore.
+As a veteran of the 37 years of age, my physical strength and injuries will not allow me to fight with my teammates anymore.
+
+As a veteran of nearly 37 years of age, my physical strength and endurance will not allow me to fight with my teammates anymore.
+As a veteran of nearly 37 years of age, my physical strength and injuries will not allow me to fight with my teammates anymore.
+
+As a man of nearly 37 years of age, my physical strength and strength will not allow me to fight with my teammates anymore.
+As a man of nearly 37 years of age, my physical strength and determination will not allow me to fight with my teammates anymore.
+As a man of nearly 37 years of age, my physical strength and endurance will not allow me to fight with my teammates anymore.
+As a man of nearly 37 years of age, my physical strength and injuries will not allow me to fight with my teammates anymore.
+
+FIN
+sent_id = 48
+Coaches and referees are offered green credentials.
+add [0]
+Players, coaches and referees are offered green credentials.
+Athletes, coaches and referees are offered green credentials.
+Coaches, coaches and referees are offered green credentials.
+Players, coaches and referees are offered green credentials.
+
+add [1]
+Players, coaches and referees are offered green credentials, while yellow and red credentials are provided to reporters and staff.
+Players, coaches and referees are offered green credentials, while yellow and blue credentials are provided to reporters and staff.
+Players, coaches and referees are offered green credentials, while red and blue credentials are provided to reporters and staff.
+Players, coaches and referees are offered green credentials, while white and blue credentials are provided to reporters and staff.
+Players, coaches and referees are offered green credentials, while yellow and gold credentials are provided to reporters and staff.
+Players, coaches and referees are offered green credentials, while gold and blue credentials are provided to reporters and staff.
+
+Athletes, coaches and referees are offered green credentials, while red and blue credentials are provided to reporters and staff.
+Athletes, coaches and referees are offered green credentials, while yellow and red credentials are provided to reporters and staff.
+Athletes, coaches and referees are offered green credentials, while gold and blue credentials are provided to reporters and staff.
+Athletes, coaches and referees are offered green credentials, while white and blue credentials are provided to reporters and staff.
+Athletes, coaches and referees are offered green credentials, while yellow and gold credentials are provided to reporters and staff.
+Athletes, coaches and referees are offered green credentials, while yellow and blue credentials are provided to reporters and staff.
+
+Coaches, coaches and referees are offered green credentials, while yellow and blue credentials are provided to reporters and staff.
+Coaches, coaches and referees are offered green credentials, while red and blue credentials are provided to reporters and staff.
+Coaches, coaches and referees are offered green credentials, while yellow and red credentials are provided to reporters and staff.
+Coaches, coaches and referees are offered green credentials, while yellow and gold credentials are provided to reporters and staff.
+Coaches, coaches and referees are offered green credentials, while gold and blue credentials are provided to reporters and staff.
+Coaches, coaches and referees are offered green credentials, while white and blue credentials are provided to reporters and staff.
+
+Players, coaches and referees are offered green credentials, while yellow and red credentials are provided to reporters and staff.
+Players, coaches and referees are offered green credentials, while yellow and blue credentials are provided to reporters and staff.
+Players, coaches and referees are offered green credentials, while red and blue credentials are provided to reporters and staff.
+Players, coaches and referees are offered green credentials, while white and blue credentials are provided to reporters and staff.
+Players, coaches and referees are offered green credentials, while yellow and gold credentials are provided to reporters and staff.
+Players, coaches and referees are offered green credentials, while gold and blue credentials are provided to reporters and staff.
+
+add [2]
+Players, coaches and referees are offered green credentials, while yellow and red credentials are provided to reporters and staff in the game respectively.
+Players, coaches and referees are offered green credentials, while yellow and red credentials are provided to reporters and staff in the media respectively.
+Players, coaches and referees are offered green credentials, while yellow and red credentials are provided to reporters and staff in the arena itself.
+Players, coaches and referees are offered green credentials, while yellow and red credentials are provided to reporters and staff in the arena respectively.
+
+Players, coaches and referees are offered green credentials, while yellow and blue credentials are provided to reporters and staff in the arena itself.
+Players, coaches and referees are offered green credentials, while yellow and blue credentials are provided to reporters and staff in the arena respectively.
+Players, coaches and referees are offered green credentials, while yellow and blue credentials are provided to reporters and staff in the game respectively.
+Players, coaches and referees are offered green credentials, while yellow and blue credentials are provided to reporters and staff in the media respectively.
+
+Players, coaches and referees are offered green credentials, while red and blue credentials are provided to reporters and staff in the game respectively.
+Players, coaches and referees are offered green credentials, while red and blue credentials are provided to reporters and staff in the media respectively.
+Players, coaches and referees are offered green credentials, while red and blue credentials are provided to reporters and staff in the arena respectively.
+
+Players, coaches and referees are offered green credentials, while white and blue credentials are provided to reporters and staff in the media respectively.
+Players, coaches and referees are offered green credentials, while white and blue credentials are provided to reporters and staff in the game respectively.
+Players, coaches and referees are offered green credentials, while white and blue credentials are provided to reporters and staff in the arena respectively.
+
+Players, coaches and referees are offered green credentials, while yellow and gold credentials are provided to reporters and staff in the arena respectively.
+Players, coaches and referees are offered green credentials, while yellow and gold credentials are provided to reporters and staff in the media respectively.
+Players, coaches and referees are offered green credentials, while yellow and gold credentials are provided to reporters and staff in the arena itself.
+Players, coaches and referees are offered green credentials, while yellow and gold credentials are provided to reporters and staff in the game respectively.
+
+Players, coaches and referees are offered green credentials, while gold and blue credentials are provided to reporters and staff in the game respectively.
+Players, coaches and referees are offered green credentials, while gold and blue credentials are provided to reporters and staff in the media respectively.
+Players, coaches and referees are offered green credentials, while gold and blue credentials are provided to reporters and staff in the arena respectively.
+
+Athletes, coaches and referees are offered green credentials, while red and blue credentials are provided to reporters and staff in the arena respectively.
+Athletes, coaches and referees are offered green credentials, while red and blue credentials are provided to reporters and staff in the arena itself.
+Athletes, coaches and referees are offered green credentials, while red and blue credentials are provided to reporters and staff in the field respectively.
+Athletes, coaches and referees are offered green credentials, while red and blue credentials are provided to reporters and staff in the media respectively.
+
+Athletes, coaches and referees are offered green credentials, while yellow and red credentials are provided to reporters and staff in the arena itself.
+Athletes, coaches and referees are offered green credentials, while yellow and red credentials are provided to reporters and staff in the arena respectively.
+Athletes, coaches and referees are offered green credentials, while yellow and red credentials are provided to reporters and staff in the media respectively.
+Athletes, coaches and referees are offered green credentials, while yellow and red credentials are provided to reporters and staff in the field respectively.
+
+Athletes, coaches and referees are offered green credentials, while gold and blue credentials are provided to reporters and staff in the arena itself.
+Athletes, coaches and referees are offered green credentials, while gold and blue credentials are provided to reporters and staff in the field respectively.
+Athletes, coaches and referees are offered green credentials, while gold and blue credentials are provided to reporters and staff in the arena respectively.
+Athletes, coaches and referees are offered green credentials, while gold and blue credentials are provided to reporters and staff in the media respectively.
+
+Athletes, coaches and referees are offered green credentials, while white and blue credentials are provided to reporters and staff in the field respectively.
+Athletes, coaches and referees are offered green credentials, while white and blue credentials are provided to reporters and staff in the arena itself.
+Athletes, coaches and referees are offered green credentials, while white and blue credentials are provided to reporters and staff in the arena respectively.
+Athletes, coaches and referees are offered green credentials, while white and blue credentials are provided to reporters and staff in the media respectively.
+
+Athletes, coaches and referees are offered green credentials, while yellow and gold credentials are provided to reporters and staff in the field respectively.
+Athletes, coaches and referees are offered green credentials, while yellow and gold credentials are provided to reporters and staff in the media respectively.
+Athletes, coaches and referees are offered green credentials, while yellow and gold credentials are provided to reporters and staff in the arena respectively.
+Athletes, coaches and referees are offered green credentials, while yellow and gold credentials are provided to reporters and staff in the arena itself.
+
+Athletes, coaches and referees are offered green credentials, while yellow and blue credentials are provided to reporters and staff in the arena respectively.
+Athletes, coaches and referees are offered green credentials, while yellow and blue credentials are provided to reporters and staff in the arena itself.
+Athletes, coaches and referees are offered green credentials, while yellow and blue credentials are provided to reporters and staff in the media respectively.
+Athletes, coaches and referees are offered green credentials, while yellow and blue credentials are provided to reporters and staff in the field respectively.
+
+Coaches, coaches and referees are offered green credentials, while yellow and blue credentials are provided to reporters and staff in the media respectively.
+Coaches, coaches and referees are offered green credentials, while yellow and blue credentials are provided to reporters and staff in the game respectively.
+Coaches, coaches and referees are offered green credentials, while yellow and blue credentials are provided to reporters and staff in the arena respectively.
+Coaches, coaches and referees are offered green credentials, while yellow and blue credentials are provided to reporters and staff in the arena itself.
+
+Coaches, coaches and referees are offered green credentials, while red and blue credentials are provided to reporters and staff in the game respectively.
+Coaches, coaches and referees are offered green credentials, while red and blue credentials are provided to reporters and staff in the media respectively.
+Coaches, coaches and referees are offered green credentials, while red and blue credentials are provided to reporters and staff in the arena respectively.
+Coaches, coaches and referees are offered green credentials, while red and blue credentials are provided to reporters and staff in the arena itself.
+
+Coaches, coaches and referees are offered green credentials, while yellow and red credentials are provided to reporters and staff in the media respectively.
+Coaches, coaches and referees are offered green credentials, while yellow and red credentials are provided to reporters and staff in the arena respectively.
+Coaches, coaches and referees are offered green credentials, while yellow and red credentials are provided to reporters and staff in the game respectively.
+Coaches, coaches and referees are offered green credentials, while yellow and red credentials are provided to reporters and staff in the arena itself.
+
+Coaches, coaches and referees are offered green credentials, while yellow and gold credentials are provided to reporters and staff in the media respectively.
+Coaches, coaches and referees are offered green credentials, while yellow and gold credentials are provided to reporters and staff in the arena itself.
+Coaches, coaches and referees are offered green credentials, while yellow and gold credentials are provided to reporters and staff in the arena respectively.
+Coaches, coaches and referees are offered green credentials, while yellow and gold credentials are provided to reporters and staff in the game respectively.
+
+Coaches, coaches and referees are offered green credentials, while gold and blue credentials are provided to reporters and staff in the media respectively.
+Coaches, coaches and referees are offered green credentials, while gold and blue credentials are provided to reporters and staff in the arena respectively.
+
+Coaches, coaches and referees are offered green credentials, while white and blue credentials are provided to reporters and staff in the arena itself.
+Coaches, coaches and referees are offered green credentials, while white and blue credentials are provided to reporters and staff in the media respectively.
+Coaches, coaches and referees are offered green credentials, while white and blue credentials are provided to reporters and staff in the arena respectively.
+Coaches, coaches and referees are offered green credentials, while white and blue credentials are provided to reporters and staff in the game respectively.
+
+Players, coaches and referees are offered green credentials, while yellow and red credentials are provided to reporters and staff in the game respectively.
+Players, coaches and referees are offered green credentials, while yellow and red credentials are provided to reporters and staff in the media respectively.
+Players, coaches and referees are offered green credentials, while yellow and red credentials are provided to reporters and staff in the arena itself.
+Players, coaches and referees are offered green credentials, while yellow and red credentials are provided to reporters and staff in the arena respectively.
+
+Players, coaches and referees are offered green credentials, while yellow and blue credentials are provided to reporters and staff in the arena itself.
+Players, coaches and referees are offered green credentials, while yellow and blue credentials are provided to reporters and staff in the arena respectively.
+Players, coaches and referees are offered green credentials, while yellow and blue credentials are provided to reporters and staff in the game respectively.
+Players, coaches and referees are offered green credentials, while yellow and blue credentials are provided to reporters and staff in the media respectively.
+
+Players, coaches and referees are offered green credentials, while red and blue credentials are provided to reporters and staff in the game respectively.
+Players, coaches and referees are offered green credentials, while red and blue credentials are provided to reporters and staff in the media respectively.
+Players, coaches and referees are offered green credentials, while red and blue credentials are provided to reporters and staff in the arena respectively.
+
+Players, coaches and referees are offered green credentials, while white and blue credentials are provided to reporters and staff in the media respectively.
+Players, coaches and referees are offered green credentials, while white and blue credentials are provided to reporters and staff in the game respectively.
+Players, coaches and referees are offered green credentials, while white and blue credentials are provided to reporters and staff in the arena respectively.
+
+Players, coaches and referees are offered green credentials, while yellow and gold credentials are provided to reporters and staff in the arena respectively.
+Players, coaches and referees are offered green credentials, while yellow and gold credentials are provided to reporters and staff in the media respectively.
+Players, coaches and referees are offered green credentials, while yellow and gold credentials are provided to reporters and staff in the arena itself.
+Players, coaches and referees are offered green credentials, while yellow and gold credentials are provided to reporters and staff in the game respectively.
+
+Players, coaches and referees are offered green credentials, while gold and blue credentials are provided to reporters and staff in the game respectively.
+Players, coaches and referees are offered green credentials, while gold and blue credentials are provided to reporters and staff in the media respectively.
+Players, coaches and referees are offered green credentials, while gold and blue credentials are provided to reporters and staff in the arena respectively.
+
+FIN
+sent_id = 49
+Garcia is the second player to have withdrawn.
+add [0]
+Garcia is the second player to have withdrawn because of the virus.
+Garcia is the second player to have withdrawn because of the injury.
+
+add [1]
+Garcia is the second player to have withdrawn because of the virus, after Joaquin Niemann pulled out a week following a positive test result.
+Garcia is the second player to have withdrawn because of the virus, after Joaquin Niemann pulled out the week following a positive test result.
+Garcia is the second player to have withdrawn because of the virus, after Joaquin Niemann pulled out one week following a positive test result.
+Garcia is the second player to have withdrawn because of the virus, after Joaquin Niemann was out last week following a positive test result.
+Garcia is the second player to have withdrawn because of the virus, after Joaquin Niemann pulled out last year following a positive test result.
+Garcia is the second player to have withdrawn because of the virus, after Joaquin Niemann pulled out last week following a positive test result.
+
+Garcia is the second player to have withdrawn because of the injury, after Joaquin Niemann pulled out a week following a positive test result.
+Garcia is the second player to have withdrawn because of the injury, after Joaquin Niemann pulled out last year following a positive test result.
+Garcia is the second player to have withdrawn because of the injury, after Joaquin Niemann pulled out the week following a positive test result.
+Garcia is the second player to have withdrawn because of the injury, after Joaquin Niemann pulled out last week following a positive test result.
+Garcia is the second player to have withdrawn because of the injury, after Joaquin Niemann was out last week following a positive test result.
+Garcia is the second player to have withdrawn because of the injury, after Joaquin Niemann pulled out one week following a positive test result.
+
+FIN
