@@ -40,15 +40,6 @@ Mortgage payment holidays are being extended for homeowners not affected by the 
 Mortgage payment holidays are being extended for homeowners financially affected by the crisis.
 
 FIN
-sent_id = 2
-Thousands of people have been prevented.
-add [0]
-Thousands of people have been prevented from paying with cash in recent years.
-Thousands of people have been prevented from paying with money in recent months.
-Thousands of people have been prevented from travelling with cash in recent months.
-Thousands of people have been prevented from paying with cash in recent months.
-
-FIN
 sent_id = 3
 Ensuring responsibility does not lie.
 add [0]
@@ -146,27 +137,6 @@ The bank said it was losing money.
 
 add [1]
 The bank said it was losing money on a large number of such accounts.
-
-FIN
-sent_id = 7
-Online marketplaces bound to prevent the sale of product.
-add [0]
-Online marketplaces bound by a clear legal obligation to prevent the sale of product.
-Online marketplaces bound by a strong legal obligation to prevent the sale of product.
-Online marketplaces bound by a clear legal right to prevent the sale of product.
-
-add [1]
-Online marketplaces bound by a clear legal obligation to prevent the sale of the product.
-Online marketplaces bound by a clear legal obligation to prevent the sale of a product.
-Online marketplaces bound by a clear legal obligation to prevent the sale of substandard product.
-
-Online marketplaces bound by a strong legal obligation to prevent the sale of the product.
-Online marketplaces bound by a strong legal obligation to prevent the sale of a product.
-Online marketplaces bound by a strong legal obligation to prevent the sale of substandard product.
-
-Online marketplaces bound by a clear legal right to prevent the sale of substandard product.
-Online marketplaces bound by a clear legal right to prevent the sale of a product.
-Online marketplaces bound by a clear legal right to prevent the sale of the product.
 
 FIN
 sent_id = 8
