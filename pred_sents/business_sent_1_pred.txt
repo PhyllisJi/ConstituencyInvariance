@@ -2382,3 +2382,499 @@ Women working at a Ralph Lauren store said they had been forced to stay overnigh
 Women working at a Ralph Lauren store said they had been forced to stay overnight to complete repairs, sometimes requiring them to work on the factory floor.
 
 FIN
+sent_id = 30
+The figures excluded lending.
+add [0]
+The figures excluded lending to other lenders and financial institutions.
+The figures excluded lending to other lenders and financial companies.
+The figures excluded lending to other lenders and insurance companies.
+The figures excluded lending to other banks and financial companies.
+
+add [1]
+The figures excluded lending to other lenders and financial institutions and their repayments.
+The figures excluded lending to other lenders and financial institutions and included repayments.
+The figures excluded lending to other lenders and financial institutions and loan repayments.
+
+The figures excluded lending to other lenders and financial companies and their repayments.
+The figures excluded lending to other lenders and financial companies and included repayments.
+The figures excluded lending to other lenders and financial companies and loan repayments.
+
+The figures excluded lending to other lenders and insurance companies and included repayments.
+The figures excluded lending to other lenders and insurance companies and their repayments.
+The figures excluded lending to other lenders and insurance companies and loan repayments.
+
+The figures excluded lending to other banks and financial companies and their repayments.
+The figures excluded lending to other banks and financial companies and loan repayments.
+The figures excluded lending to other banks and financial companies and included repayments.
+
+FIN
+sent_id = 31
+Mortgage holidays are being extended for homeowners financially.
+add [0]
+Mortgage and holidays are being extended for homeowners.
+Mortgage payment holidays are being extended for homeowners.
+
+add [1]
+Mortgage and holidays are being extended for homeowners not affected by the pandemic.
+Mortgage and holidays are being extended for homeowners financially affected by the pandemic.
+Mortgage and holidays are being extended for homeowners financially affected by the crisis.
+
+Mortgage payment holidays are being extended for homeowners financially affected by the pandemic.
+Mortgage payment holidays are being extended for homeowners not affected by the pandemic.
+Mortgage payment holidays are being extended for homeowners financially affected by the crisis.
+
+FIN
+sent_id = 32
+Ensuring responsibility does not lie.
+add [0]
+Ensuring responsibility does not lie entirely.
+
+add [1]
+Ensuring responsibility does not lie entirely with the third-party seller of the sites.
+Ensuring responsibility does not lie entirely with the third-party seller using the sites.
+Ensuring responsibility does not lie entirely with the third-party companies using the sites.
+Ensuring responsibility does not lie entirely with the third-party seller using the product.
+
+FIN
+sent_id = 33
+Shoppers as lockdown restrictions were lifted.
+add [0]
+Shoppers splurged as lockdown restrictions were lifted.
+
+add [1]
+Shoppers splurged during the day as lockdown restrictions were lifted.
+Shoppers splurged during the night as lockdown restrictions were lifted.
+Shoppers splurged during the period as lockdown restrictions were lifted.
+
+add [2]
+Shoppers splurged during the day as coronavirus lockdown restrictions were lifted.
+Shoppers splurged during the day as the lockdown restrictions were lifted.
+
+Shoppers splurged during the night as the lockdown restrictions were lifted.
+Shoppers splurged during the night as coronavirus lockdown restrictions were lifted.
+
+Shoppers splurged during the period as the lockdown restrictions were lifted.
+Shoppers splurged during the period as coronavirus lockdown restrictions were lifted.
+
+add [3]
+Shoppers splurged during the day as coronavirus lockdown restrictions were lifted, it said.
+Shoppers splurged during the day as coronavirus lockdown restrictions were lifted, it seemed.
+Shoppers splurged during the day as coronavirus lockdown restrictions were lifted, it appeared.
+
+Shoppers splurged during the day as the lockdown restrictions were lifted, it seemed.
+Shoppers splurged during the day as the lockdown restrictions were lifted, it said.
+Shoppers splurged during the day as the lockdown restrictions were lifted, it was.
+
+Shoppers splurged during the night as the lockdown restrictions were lifted, it was.
+Shoppers splurged during the night as the lockdown restrictions were lifted, it said.
+Shoppers splurged during the night as the lockdown restrictions were lifted, it seemed.
+
+Shoppers splurged during the night as coronavirus lockdown restrictions were lifted, it appeared.
+Shoppers splurged during the night as coronavirus lockdown restrictions were lifted, it seemed.
+Shoppers splurged during the night as coronavirus lockdown restrictions were lifted, it said.
+Shoppers splurged during the night as coronavirus lockdown restrictions were lifted, it seems.
+
+Shoppers splurged during the period as the lockdown restrictions were lifted, it said.
+Shoppers splurged during the period as the lockdown restrictions were lifted, it was.
+
+Shoppers splurged during the period as coronavirus lockdown restrictions were lifted, it said.
+
+FIN
+sent_id = 34
+The app offered privacy features.
+add [0]
+A review noted the app offered privacy features.
+A reviewer noted the app offered privacy features.
+A spokesman noted the app offered privacy features.
+A spokesman for the app offered privacy features.
+A spokesman said the app offered privacy features.
+
+add [1]
+A review noted the app offered privacy features to help parents with such problems.
+A review noted the app offered privacy features to help parents avoid such problems.
+A review noted the app offered privacy features to help users avoid such problems.
+
+A reviewer noted the app offered privacy features to help parents with such problems.
+A reviewer noted the app offered privacy features to help parents avoid such problems.
+A reviewer noted the app offered privacy features to help users avoid such problems.
+
+A spokesman noted the app offered privacy features to help users avoid such problems.
+A spokesman noted the app offered privacy features to help people avoid such problems.
+A spokesman noted the app offered privacy features to help parents avoid such problems.
+A spokesman noted the app offered privacy features to help parents with such problems.
+
+A spokesman for the app offered privacy features to help users avoid such problems.
+A spokesman for the app offered privacy features to help parents with such problems.
+A spokesman for the app offered privacy features to help parents avoid such problems.
+A spokesman for the app offered privacy features to help people avoid such problems.
+
+A spokesman said the app offered privacy features to help parents with such problems.
+A spokesman said the app offered privacy features to help people avoid such problems.
+A spokesman said the app offered privacy features to help users avoid such problems.
+A spokesman said the app offered privacy features to help parents avoid such problems.
+
+FIN
+sent_id = 35
+The bank was losing money.
+add [0]
+The bank said it was losing money.
+
+add [1]
+The bank said it was losing money on a large number of such accounts.
+
+FIN
+sent_id = 36
+The account picked up followers.
+add [0]
+Over the period, the account picked up followers.
+Over the years, the account picked up followers.
+
+add [1]
+Over the period, the account picked up followers of what appeared to be older men.
+Over the period, the account picked up followers including what appeared to be older men.
+Over the period, the account picked up followers from what appeared to be older men.
+Over the period, the account picked up followers including what appeared to be young men.
+Over the period, the account picked up followers including what appeared to be older people.
+Over the period, the account picked up followers including what appeared to be older women.
+
+Over the years, the account picked up followers including what appeared to be older people.
+Over the years, the account picked up followers of what appeared to be older men.
+Over the years, the account picked up followers from what appeared to be older men.
+Over the years, the account picked up followers including what appeared to be young men.
+Over the years, the account picked up followers including what used to be older men.
+Over the years, the account picked up followers including what appeared to be older men.
+
+FIN
+sent_id = 37
+These products could have been sold.
+add [0]
+Tens of thousands of these products could have been sold.
+Hundreds of thousands of these products could have been sold.
+
+add [1]
+Tens of thousands of these products could have been sold via online marketplaces.
+Tens of thousands of these products could have been sold via the marketplaces.
+Tens of thousands of these products could have been sold via online sales.
+Tens of thousands of these products could have been sold via online retailers.
+
+Hundreds of thousands of these products could have been sold via online retailers.
+Hundreds of thousands of these products could have been sold via online marketplaces.
+Hundreds of thousands of these products could have been sold via the marketplaces.
+Hundreds of thousands of these products could have been sold via online sales.
+
+add [2]
+Tens of thousands of these products could have been sold via online marketplaces, it seems.
+Tens of thousands of these products could have been sold via online marketplaces, it said.
+Tens of thousands of these products could have been sold via online marketplaces, it appears.
+
+Tens of thousands of these products could have been sold via the marketplaces, it appears.
+Tens of thousands of these products could have been sold via the marketplaces, it seems.
+Tens of thousands of these products could have been sold via the marketplaces, it said.
+Tens of thousands of these products could have been sold via the marketplaces, it seemed.
+
+Tens of thousands of these products could have been sold via online sales, it seems.
+Tens of thousands of these products could have been sold via online sales, it appears.
+Tens of thousands of these products could have been sold via online sales, it said.
+
+Tens of thousands of these products could have been sold via online retailers, it said.
+Tens of thousands of these products could have been sold via online retailers, it appears.
+Tens of thousands of these products could have been sold via online retailers, it seems.
+
+Hundreds of thousands of these products could have been sold via online retailers, it said.
+Hundreds of thousands of these products could have been sold via online retailers, it appears.
+Hundreds of thousands of these products could have been sold via online retailers, it seems.
+
+Hundreds of thousands of these products could have been sold via online marketplaces, it said.
+Hundreds of thousands of these products could have been sold via online marketplaces, it seems.
+Hundreds of thousands of these products could have been sold via online marketplaces, it appears.
+
+Hundreds of thousands of these products could have been sold via the marketplaces, it seemed.
+Hundreds of thousands of these products could have been sold via the marketplaces, it said.
+Hundreds of thousands of these products could have been sold via the marketplaces, it seems.
+
+Hundreds of thousands of these products could have been sold via online sales, it appears.
+Hundreds of thousands of these products could have been sold via online sales, it seems.
+Hundreds of thousands of these products could have been sold via online sales, it said.
+
+FIN
+sent_id = 38
+The moves came as the pandemic rages on.
+add [0]
+The moves came as the pandemic rages on and some developed countries began to implement new restrictins.
+The moves came as the pandemic rages on and some european states began to implement new restrictins.
+The moves came as the pandemic rages on and some european countries began to implement new restrictins.
+The moves came as the pandemic rages on and some european countries begin to implement new restrictins.
+The moves came as the pandemic rages on and some european countries refuse to implement new restrictins.
+The moves came as the pandemic rages on and some developing countries began to implement new restrictins.
+
+FIN
+sent_id = 39
+Other economists have expressed doubts.
+add [0]
+Other economists have expressed doubts about the potential.
+
+add [1]
+Other economists have expressed doubts about the potential for such a large recovery.
+Other economists have expressed doubts about the potential for such a swift recovery.
+
+add [2]
+Other economists have expressed doubts about the potential for such a large recovery in china.
+Other economists have expressed doubts about the potential for such a large recovery in activity.
+
+Other economists have expressed doubts about the potential for such a swift recovery in activity.
+Other economists have expressed doubts about the potential for such a swift recovery in china.
+
+FIN
+sent_id = 40
+The government has struck a balance between protecting jobs, the economy.
+add [0]
+The government maintains it has struck a balance between protecting jobs, the economy.
+The government said it has struck a balance between protecting jobs, the economy.
+The government says it has struck a balance between protecting jobs, the economy.
+
+add [1]
+The government maintains it has struck a balance between protecting jobs, the economy and saving money.
+The government maintains it has struck a balance between protecting jobs, the economy and saving lives.
+
+The government said it has struck a balance between protecting jobs, the economy and saving lives.
+The government said it has struck a balance between protecting jobs, the economy and saving money.
+
+The government says it has struck a balance between protecting jobs, the economy and saving money.
+The government says it has struck a balance between protecting jobs, the economy and saving lives.
+
+FIN
+sent_id = 41
+The next-generation technologies will be digitally interconnected.
+add [0]
+The next-generation technologies will be digitally interconnected and help create a sustainable and innovative ecosystem.
+The next-generation technologies will be digitally interconnected and help build a smart and innovative ecosystem.
+The next-generation technologies will be digitally interconnected and help create a smart and sustainable ecosystem.
+The next-generation technologies will be digitally interconnected and will create a smart and innovative ecosystem.
+The next-generation technologies will be digitally interconnected and help create a smart and innovative ecosystem.
+The next-generation technologies will be digitally interconnected and help create a new and innovative ecosystem.
+
+add [1]
+The next-generation technologies will be digitally interconnected and help create a sustainable and innovative ecosystem for future-oriented development.
+The next-generation technologies will be digitally interconnected and help create a sustainable and innovative ecosystem for the space.
+The next-generation technologies will be digitally interconnected and help create a sustainable and innovative ecosystem for open space.
+The next-generation technologies will be digitally interconnected and help create a sustainable and innovative ecosystem for future-oriented space.
+
+The next-generation technologies will be digitally interconnected and help build a smart and innovative ecosystem for future-oriented space.
+The next-generation technologies will be digitally interconnected and help build a smart and innovative ecosystem for the space.
+The next-generation technologies will be digitally interconnected and help build a smart and innovative ecosystem for open space.
+
+The next-generation technologies will be digitally interconnected and help create a smart and sustainable ecosystem for future-oriented space.
+The next-generation technologies will be digitally interconnected and help create a smart and sustainable ecosystem for open space.
+The next-generation technologies will be digitally interconnected and help create a smart and sustainable ecosystem for the space.
+The next-generation technologies will be digitally interconnected and help create a smart and sustainable ecosystem for future-oriented development.
+
+The next-generation technologies will be digitally interconnected and will create a smart and innovative ecosystem for the space.
+The next-generation technologies will be digitally interconnected and will create a smart and innovative ecosystem for open space.
+The next-generation technologies will be digitally interconnected and will create a smart and innovative ecosystem for future-oriented technologies.
+The next-generation technologies will be digitally interconnected and will create a smart and innovative ecosystem for future-oriented space.
+
+The next-generation technologies will be digitally interconnected and help create a smart and innovative ecosystem for future-oriented space.
+The next-generation technologies will be digitally interconnected and help create a smart and innovative ecosystem for the space.
+The next-generation technologies will be digitally interconnected and help create a smart and innovative ecosystem for open space.
+
+The next-generation technologies will be digitally interconnected and help create a new and innovative ecosystem for the space.
+The next-generation technologies will be digitally interconnected and help create a new and innovative ecosystem for open space.
+The next-generation technologies will be digitally interconnected and help create a new and innovative ecosystem for future-oriented space.
+The next-generation technologies will be digitally interconnected and help create a new and innovative ecosystem for future-oriented technologies.
+
+FIN
+sent_id = 42
+Zhang expects the fair to make Yichang more known.
+add [0]
+Zhang said he expects the fair to make Yichang more known.
+Zhang says he expects the fair to make Yichang more known.
+
+add [1]
+Zhang said he expects the fair to make Yichang and its citrus industry more known.
+Zhang said he expects the fair to make Yichang and its citrus fruits more known.
+Zhang said he expects the fair to make Yichang and its citrus groves more known.
+Zhang said he expects the fair to make Yichang and its other fruits more known.
+
+Zhang says he expects the fair to make Yichang and its citrus industry more known.
+Zhang says he expects the fair to make Yichang and its citrus fruits more known.
+Zhang says he expects the fair to make Yichang and its other fruits more known.
+Zhang says he expects the fair to make Yichang and its citrus groves more known.
+
+add [2]
+Zhang said he expects the fair to make Yichang and its citrus industry more known to the customers.
+Zhang said he expects the fair to make Yichang and its citrus industry more known to international visitors.
+Zhang said he expects the fair to make Yichang and its citrus industry more known to its customers.
+Zhang said he expects the fair to make Yichang and its citrus industry more known to his customers.
+Zhang said he expects the fair to make Yichang and its citrus industry more known to chinese customers.
+Zhang said he expects the fair to make Yichang and its citrus industry more known to international customers.
+
+Zhang said he expects the fair to make Yichang and its citrus fruits more known to the customers.
+Zhang said he expects the fair to make Yichang and its citrus fruits more known to its customers.
+Zhang said he expects the fair to make Yichang and its citrus fruits more known to international customers.
+Zhang said he expects the fair to make Yichang and its citrus fruits more known to international visitors.
+Zhang said he expects the fair to make Yichang and its citrus fruits more known to international tourists.
+Zhang said he expects the fair to make Yichang and its citrus fruits more known to his customers.
+
+Zhang said he expects the fair to make Yichang and its citrus groves more known to its customers.
+Zhang said he expects the fair to make Yichang and its citrus groves more known to chinese customers.
+Zhang said he expects the fair to make Yichang and its citrus groves more known to international visitors.
+Zhang said he expects the fair to make Yichang and its citrus groves more known to international customers.
+Zhang said he expects the fair to make Yichang and its citrus groves more known to his customers.
+Zhang said he expects the fair to make Yichang and its citrus groves more known to the customers.
+
+Zhang said he expects the fair to make Yichang and its other fruits more known to international customers.
+Zhang said he expects the fair to make Yichang and its other fruits more known to its customers.
+Zhang said he expects the fair to make Yichang and its other fruits more known to the customers.
+Zhang said he expects the fair to make Yichang and its other fruits more known to his customers.
+Zhang said he expects the fair to make Yichang and its other fruits more known to international visitors.
+Zhang said he expects the fair to make Yichang and its other fruits more known to international audiences.
+
+Zhang says he expects the fair to make Yichang and its citrus industry more known to international tourists.
+Zhang says he expects the fair to make Yichang and its citrus industry more known to its customers.
+Zhang says he expects the fair to make Yichang and its citrus industry more known to international customers.
+Zhang says he expects the fair to make Yichang and its citrus industry more known to international visitors.
+Zhang says he expects the fair to make Yichang and its citrus industry more known to the customers.
+
+Zhang says he expects the fair to make Yichang and its citrus fruits more known to international customers.
+Zhang says he expects the fair to make Yichang and its citrus fruits more known to international visitors.
+Zhang says he expects the fair to make Yichang and its citrus fruits more known to its customers.
+Zhang says he expects the fair to make Yichang and its citrus fruits more known to the customers.
+Zhang says he expects the fair to make Yichang and its citrus fruits more known to international tourists.
+
+Zhang says he expects the fair to make Yichang and its other fruits more known to international customers.
+Zhang says he expects the fair to make Yichang and its other fruits more known to international tourists.
+Zhang says he expects the fair to make Yichang and its other fruits more known to the customers.
+Zhang says he expects the fair to make Yichang and its other fruits more known to international audiences.
+Zhang says he expects the fair to make Yichang and its other fruits more known to international visitors.
+Zhang says he expects the fair to make Yichang and its other fruits more known to its customers.
+
+Zhang says he expects the fair to make Yichang and its citrus groves more known to its customers.
+Zhang says he expects the fair to make Yichang and its citrus groves more known to the customers.
+Zhang says he expects the fair to make Yichang and its citrus groves more known to international customers.
+Zhang says he expects the fair to make Yichang and its citrus groves more known to his customers.
+Zhang says he expects the fair to make Yichang and its citrus groves more known to international visitors.
+Zhang says he expects the fair to make Yichang and its citrus groves more known to international tourists.
+
+FIN
+sent_id = 43
+China's central bank pumped cash into the banking system operations to maintain liquidity.
+add [0]
+China's central bank pumped cash into the banking system through open market operations to maintain liquidity.
+China's central bank pumped cash into the banking system through stock market operations to maintain liquidity.
+China's central bank pumped cash into the banking system through open bank operations to maintain liquidity.
+China's central bank pumped cash into the banking system through the market operations to maintain liquidity.
+
+add [1]
+China's central bank pumped cash into the banking system through open market operations to maintain liquidity stability.
+China's central bank pumped cash into the banking system through open market operations to maintain liquidity Friday.
+
+China's central bank pumped cash into the banking system through stock market operations to maintain liquidity Friday.
+
+China's central bank pumped cash into the banking system through open bank operations to maintain liquidity Friday.
+
+China's central bank pumped cash into the banking system through the market operations to maintain liquidity stability.
+China's central bank pumped cash into the banking system through the market operations to maintain liquidity Friday.
+
+FIN
+sent_id = 44
+The move was intended to maintain reasonably ample liquidity.
+add [0]
+The move was intended to maintain reasonably ample liquidity in the banking system.
+The move was intended to maintain reasonably ample liquidity in the banking industry.
+The move was intended to maintain reasonably ample liquidity in the banking sector.
+
+add [1]
+The move was intended to maintain reasonably ample liquidity in the banking system, the central bank said.
+The move was intended to maintain reasonably ample liquidity in the banking system, the world bank said.
+
+The move was intended to maintain reasonably ample liquidity in the banking industry, the central bank said.
+The move was intended to maintain reasonably ample liquidity in the banking industry, the world bank said.
+
+The move was intended to maintain reasonably ample liquidity in the banking sector, the world bank said.
+The move was intended to maintain reasonably ample liquidity in the banking sector, the central bank said.
+
+FIN
+sent_id = 45
+Consumers have been more cautious than expected.
+add [0]
+Consumers have been more cautious than expected, they said.
+Consumers have been more cautious than expected, they say.
+
+add [1]
+Consumers have been more cautious than expected, they said, while low capital investment will dampen growth.
+Consumers have been more cautious than expected, they said, while the business investment will dampen growth.
+Consumers have been more cautious than expected, they said, while low business investment will dampen growth.
+Consumers have been more cautious than expected, they said, while low business investment will slow growth.
+Consumers have been more cautious than expected, they said, while low business returns will dampen growth.
+Consumers have been more cautious than expected, they said, while increasing business investment will dampen growth.
+
+Consumers have been more cautious than expected, they say, while low capital investment will dampen growth.
+Consumers have been more cautious than expected, they say, while increasing business investment will dampen growth.
+Consumers have been more cautious than expected, they say, while low business returns will dampen growth.
+Consumers have been more cautious than expected, they say, while low business investment will dampen growth.
+Consumers have been more cautious than expected, they say, while low business investment will slow growth.
+Consumers have been more cautious than expected, they say, while the business investment will dampen growth.
+
+FIN
+sent_id = 46
+They want eligibility criteria reviewed.
+add [0]
+They also want eligibility criteria reviewed.
+
+add [1]
+They also want eligibility criteria reviewed to identify those who have been left out.
+They also want eligibility criteria reviewed to help those who have been left out.
+They also want eligibility criteria reviewed to help those who have been singled out.
+They also want eligibility criteria reviewed to include those who have been left out.
+They also want eligibility criteria reviewed to determine those who have been left out.
+
+add [2]
+They also want eligibility criteria reviewed to identify those who have been left out of support.
+
+They also want eligibility criteria reviewed to help those who have been left out of support.
+
+They also want eligibility criteria reviewed to help those who have been singled out of society.
+They also want eligibility criteria reviewed to help those who have been singled out of competition.
+They also want eligibility criteria reviewed to help those who have been singled out of support.
+
+They also want eligibility criteria reviewed to include those who have been left out of support.
+
+They also want eligibility criteria reviewed to determine those who have been left out of support.
+They also want eligibility criteria reviewed to determine those who have been left out of competition.
+
+add [3]
+They also want eligibility criteria reviewed to identify those who have been left out of support so far.
+
+They also want eligibility criteria reviewed to help those who have been left out of support so far.
+
+They also want eligibility criteria reviewed to help those who have been singled out of society so far.
+
+They also want eligibility criteria reviewed to help those who have been singled out of competition so far.
+
+They also want eligibility criteria reviewed to help those who have been singled out of support so far.
+
+They also want eligibility criteria reviewed to include those who have been left out of support so far.
+
+They also want eligibility criteria reviewed to determine those who have been left out of support so far.
+
+They also want eligibility criteria reviewed to determine those who have been left out of competition so far.
+
+FIN
+sent_id = 47
+People must not travel to second homes.
+add [0]
+The government has also said people must not travel to second homes.
+The government has also stated people must not travel to second homes.
+
+add [1]
+The government has also said people must not travel to second homes either in the uk or abroad.
+The government has also said people must not travel to second homes either in the UK or abroad.
+The government has also said people must not travel to second homes either in the UK or overseas.
+The government has also said people must not travel to second homes either in the country or abroad.
+
+The government has also stated people must not travel to second homes either in the UK or abroad.
+The government has also stated people must not travel to second homes either in the uk or abroad.
+The government has also stated people must not travel to second homes either in the UK or overseas.
+The government has also stated people must not travel to second homes either in the country or abroad.
+
+FIN
