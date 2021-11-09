@@ -3750,3 +3750,346 @@ Sellers at a clothing sales center in the northern Chinese city of Changshu garn
 Sellers at a clothing sales center in the northern Chinese city of Changshu garner a daily turnover of about 400 million yuan, just through talking to their phone numbers.
 
 FIN
+sent_id = 40
+Engineers of the high-tech company are testing robots.
+add [0]
+At the corporate level, engineers of the high-tech company are testing robots.
+At the corporate headquarters, engineers of the high-tech company are testing robots.
+At the company headquarters, engineers of the high-tech company are testing robots.
+
+add [1]
+At the corporate level of Terminus group, engineers of the high-tech company are testing robots.
+
+At the corporate headquarters of Terminus robotics, engineers of the high-tech company are testing robots.
+At the corporate headquarters of Terminus group, engineers of the high-tech company are testing robots.
+At the corporate headquarters of Terminus technologies, engineers of the high-tech company are testing robots.
+
+At the company headquarters of Terminus group, engineers of the high-tech company are testing robots.
+At the company headquarters of Terminus robotics, engineers of the high-tech company are testing robots.
+
+add [2]
+At the corporate level of Terminus group in india, engineers of the high-tech company are testing robots.
+At the corporate level of Terminus group in Beijing, engineers of the high-tech company are testing robots.
+
+At the corporate headquarters of Terminus robotics in Beijing, engineers of the high-tech company are testing robots.
+
+At the corporate headquarters of Terminus group in Beijing, engineers of the high-tech company are testing robots.
+At the corporate headquarters of Terminus group in london, engineers of the high-tech company are testing robots.
+
+At the corporate headquarters of Terminus technologies in Beijing, engineers of the high-tech company are testing robots.
+
+At the company headquarters of Terminus group in Beijing, engineers of the high-tech company are testing robots.
+At the company headquarters of Terminus group in paris, engineers of the high-tech company are testing robots.
+
+At the company headquarters of Terminus robotics in Beijing, engineers of the high-tech company are testing robots.
+
+add [3]
+At the corporate level of Terminus group in india, engineers of the high-tech company are also testing robots.
+At the corporate level of Terminus group in india, engineers of the high-tech company are busy testing robots.
+
+At the corporate level of Terminus group in Beijing, engineers of the high-tech company are also testing robots.
+At the corporate level of Terminus group in Beijing, engineers of the high-tech company are busy testing robots.
+
+At the corporate headquarters of Terminus robotics in Beijing, engineers of the high-tech company are also testing robots.
+At the corporate headquarters of Terminus robotics in Beijing, engineers of the high-tech company are shown testing robots.
+At the corporate headquarters of Terminus robotics in Beijing, engineers of the high-tech company are busy testing robots.
+
+At the corporate headquarters of Terminus group in Beijing, engineers of the high-tech company are busy testing robots.
+At the corporate headquarters of Terminus group in Beijing, engineers of the high-tech company are also testing robots.
+At the corporate headquarters of Terminus group in Beijing, engineers of the high-tech company are shown testing robots.
+
+At the corporate headquarters of Terminus group in london, engineers of the high-tech company are busy testing robots.
+At the corporate headquarters of Terminus group in london, engineers of the high-tech company are also testing robots.
+At the corporate headquarters of Terminus group in london, engineers of the high-tech company are shown testing robots.
+
+At the corporate headquarters of Terminus technologies in Beijing, engineers of the high-tech company are shown testing robots.
+At the corporate headquarters of Terminus technologies in Beijing, engineers of the high-tech company are busy testing robots.
+At the corporate headquarters of Terminus technologies in Beijing, engineers of the high-tech company are also testing robots.
+
+At the company headquarters of Terminus group in Beijing, engineers of the high-tech company are shown testing robots.
+At the company headquarters of Terminus group in Beijing, engineers of the high-tech company are also testing robots.
+At the company headquarters of Terminus group in Beijing, engineers of the high-tech company are busy testing robots.
+
+At the company headquarters of Terminus group in paris, engineers of the high-tech company are also testing robots.
+At the company headquarters of Terminus group in paris, engineers of the high-tech company are shown testing robots.
+At the company headquarters of Terminus group in paris, engineers of the high-tech company are busy testing robots.
+
+At the company headquarters of Terminus robotics in Beijing, engineers of the high-tech company are also testing robots.
+At the company headquarters of Terminus robotics in Beijing, engineers of the high-tech company are busy testing robots.
+
+FIN
+sent_id = 41
+Firms have been adding to their borrowing.
+add [0]
+Firms have been adding to their borrowing in order to survive the recession.
+Firms have been adding to their borrowing in order to survive the pandemic.
+Firms have been adding to their borrowing in order to combat the pandemic.
+Firms have been adding to their borrowing in order to survive the war.
+Firms have been adding to their borrowing in order to fight the pandemic.
+
+add [1]
+Firms have been adding to their borrowing in order to survive the recession as many have a sales slump.
+Firms have been adding to their borrowing in order to survive the recession as they have seen sales slump.
+Firms have been adding to their borrowing in order to survive the recession as many have experienced sales slump.
+Firms have been adding to their borrowing in order to survive the recession as many have seen the slump.
+Firms have been adding to their borrowing in order to survive the recession as many have seen sales slump.
+Firms have been adding to their borrowing in order to survive the recession as many have seen a slump.
+
+Firms have been adding to their borrowing in order to survive the pandemic as they have seen sales slump.
+Firms have been adding to their borrowing in order to survive the pandemic as many have seen sales slump.
+Firms have been adding to their borrowing in order to survive the pandemic as many have seen a slump.
+Firms have been adding to their borrowing in order to survive the pandemic as many have seen the slump.
+Firms have been adding to their borrowing in order to survive the pandemic as many have experienced sales slump.
+Firms have been adding to their borrowing in order to survive the pandemic as many have a sales slump.
+
+Firms have been adding to their borrowing in order to combat the pandemic as many have experienced sales slump.
+Firms have been adding to their borrowing in order to combat the pandemic as they have seen sales slump.
+Firms have been adding to their borrowing in order to combat the pandemic as many have entered sales slump.
+Firms have been adding to their borrowing in order to combat the pandemic as many have seen the slump.
+Firms have been adding to their borrowing in order to combat the pandemic as many have seen sales slump.
+Firms have been adding to their borrowing in order to combat the pandemic as many have a sales slump.
+
+Firms have been adding to their borrowing in order to survive the war as many have seen sales slump.
+Firms have been adding to their borrowing in order to survive the war as many have seen the slump.
+Firms have been adding to their borrowing in order to survive the war as many have seen a slump.
+Firms have been adding to their borrowing in order to survive the war as many have a sales slump.
+Firms have been adding to their borrowing in order to survive the war as many have experienced sales slump.
+Firms have been adding to their borrowing in order to survive the war as they have seen sales slump.
+
+Firms have been adding to their borrowing in order to fight the pandemic as many have seen a slump.
+Firms have been adding to their borrowing in order to fight the pandemic as many have a sales slump.
+Firms have been adding to their borrowing in order to fight the pandemic as they have seen sales slump.
+Firms have been adding to their borrowing in order to fight the pandemic as many have seen the slump.
+Firms have been adding to their borrowing in order to fight the pandemic as many have seen sales slump.
+Firms have been adding to their borrowing in order to fight the pandemic as many have experienced sales slump.
+
+FIN
+sent_id = 42
+The club's estimates assume a free trade agreement.
+add [0]
+The club's estimates assume a simple free trade agreement.
+The club's estimates assume a new free trade agreement.
+
+add [1]
+The club's estimates assume a simple free trade agreement with the league.
+The club's estimates assume a simple free trade agreement with the eu.
+
+The club's estimates assume a new free trade agreement with the eu.
+The club's estimates assume a new free trade agreement with the league.
+The club's estimates assume a new free trade agreement with the club.
+
+add [2]
+The club's estimates assume a simple free trade agreement with the league by the end of the season.
+The club's estimates assume a simple free trade agreement with the league by the end of the year.
+
+The club's estimates assume a simple free trade agreement with the eu by the end of the season.
+The club's estimates assume a simple free trade agreement with the eu by the end of the year.
+
+The club's estimates assume a new free trade agreement with the eu by the end of the season.
+The club's estimates assume a new free trade agreement with the eu by the end of the year.
+
+The club's estimates assume a new free trade agreement with the league by the end of the year.
+The club's estimates assume a new free trade agreement with the league by the end of the season.
+
+The club's estimates assume a new free trade agreement with the club by the end of the year.
+The club's estimates assume a new free trade agreement with the club by the end of the season.
+
+FIN
+sent_id = 43
+Parents need to be aware of the risks.
+add [0]
+Child safety guidelines say parents need to be aware of the risks.
+Child health experts say parents need to be aware of the risks.
+Child safety experts say parents need to be aware of the risks.
+Child safety experts and parents need to be aware of the risks.
+Child care experts say parents need to be aware of the risks.
+Child safety advocates say parents need to be aware of the risks.
+
+add [1]
+Child safety guidelines say parents need to be aware of the risks involved with letting their children in TikTok.
+Child safety guidelines say parents need to be aware of the risks involved with having their children use TikTok.
+Child safety guidelines say parents need to be aware of the risks involved with letting their children use TikTok.
+Child safety guidelines say parents need to be aware of the risks involved with making their children use TikTok.
+Child safety guidelines say parents need to be aware of the risks involved with letting their children use them.
+Child safety guidelines say parents need to be aware of the risks associated with letting their children use TikTok.
+
+Child health experts say parents need to be aware of the risks involved with letting their children have TikTok.
+Child health experts say parents need to be aware of the risks associated with letting their children use TikTok.
+Child health experts say parents need to be aware of the risks involved with letting their children use them.
+Child health experts say parents need to be aware of the risks involved with letting their children use TikTok.
+Child health experts say parents need to be aware of the risks involved with having their children use TikTok.
+Child health experts say parents need to be aware of the risks involved with making their children use TikTok.
+
+Child safety experts say parents need to be aware of the risks involved with letting their children use TikTok.
+Child safety experts say parents need to be aware of the risks associated with letting their children use TikTok.
+Child safety experts say parents need to be aware of the risks involved with having their children use TikTok.
+Child safety experts say parents need to be aware of the risks involved with how their children use TikTok.
+Child safety experts say parents need to be aware of the risks involved with letting their children use them.
+Child safety experts say parents need to be aware of the risks involved with making their children use TikTok.
+
+Child safety experts and parents need to be aware of the risks involved with having their children use TikTok.
+Child safety experts and parents need to be aware of the risks involved with making their children use TikTok.
+Child safety experts and parents need to be aware of the risks associated with letting their children use TikTok.
+Child safety experts and parents need to be aware of the risks involved with letting their children in TikTok.
+Child safety experts and parents need to be aware of the risks involved with letting their children use TikTok.
+Child safety experts and parents need to be aware of the risks involved with how their children use TikTok.
+
+Child care experts say parents need to be aware of the risks involved with having their children use TikTok.
+Child care experts say parents need to be aware of the risks involved with letting their children use TikTok.
+Child care experts say parents need to be aware of the risks involved with letting their children have TikTok.
+Child care experts say parents need to be aware of the risks associated with letting their children use TikTok.
+Child care experts say parents need to be aware of the risks involved with letting their children in TikTok.
+Child care experts say parents need to be aware of the risks involved with making their children use TikTok.
+
+Child safety advocates say parents need to be aware of the risks involved with how their children use TikTok.
+Child safety advocates say parents need to be aware of the risks involved with making their children use TikTok.
+Child safety advocates say parents need to be aware of the risks involved with letting their children use TikTok.
+Child safety advocates say parents need to be aware of the risks involved with having their children use TikTok.
+Child safety advocates say parents need to be aware of the risks involved with letting their children use them.
+Child safety advocates say parents need to be aware of the risks associated with letting their children use TikTok.
+
+FIN
+sent_id = 44
+Its youngest members get round this.
+add [0]
+But many of its youngest members get round this.
+But some of its youngest members get round this.
+
+add [1]
+But many of its youngest members get round this by talking about their date of birth.
+But many of its youngest members get round this by asking about their date of birth.
+But many of its youngest members get round this by lying about their place of birth.
+But many of its youngest members get round this by lying about their date of birth.
+
+But some of its youngest members get round this by lying about their date of birth.
+But some of its youngest members get round this by talking about their date of birth.
+But some of its youngest members get round this by lying about their place of birth.
+But some of its youngest members get round this by asking about their date of birth.
+
+add [2]
+But many of its youngest members get round this by talking about their date of birth when they join.
+
+But many of its youngest members get round this by asking about their date of birth when they join.
+
+But many of its youngest members get round this by lying about their place of birth when they die.
+But many of its youngest members get round this by lying about their place of birth when they join.
+
+But many of its youngest members get round this by lying about their date of birth when they join.
+
+But some of its youngest members get round this by lying about their date of birth when they join.
+
+But some of its youngest members get round this by talking about their date of birth when they die.
+But some of its youngest members get round this by talking about their date of birth when they join.
+
+But some of its youngest members get round this by lying about their place of birth when they die.
+But some of its youngest members get round this by lying about their place of birth when they join.
+
+But some of its youngest members get round this by asking about their date of birth when they join.
+But some of its youngest members get round this by asking about their date of birth when they die.
+
+FIN
+sent_id = 45
+The man's account was still active.
+add [0]
+After three days, the man's account was still active.
+After three years, the man's account was still active.
+After three months, the man's account was still active.
+
+add [1]
+After three days, the man's account was still active, at which point Panorama contacted the police.
+After three days, the man's account was still active, at which point Panorama left the company.
+After three days, the man's account was still active, at which time Panorama contacted the company.
+After three days, the man's account was still active, at which point Panorama contacted the company.
+
+After three years, the man's account was still active, at which point Panorama contacted the police.
+After three years, the man's account was still active, at which point Panorama left the company.
+After three years, the man's account was still active, at which time Panorama contacted the company.
+After three years, the man's account was still active, at which point Panorama sold the company.
+After three years, the man's account was still active, at which point Panorama contacted the company.
+
+After three months, the man's account was still active, at which point Panorama left the company.
+After three months, the man's account was still active, at which point Panorama contacted the company.
+After three months, the man's account was still active, at which time Panorama contacted the company.
+After three months, the man's account was still active, at which point Panorama contacted the police.
+
+FIN
+sent_id = 46
+It found there had been a lack of applications from women.
+add [0]
+It found there had been a lack of applications from women for senior positions.
+It found there had been a lack of applications from women for senior roles.
+It found there had been a lack of applications from women for the roles.
+
+add [1]
+It found there had been a lack of applications from women for senior positions, many of which had not been filled on a flexible basis.
+It found there had been a lack of applications from women for senior positions, many of which had not been available on a flexible basis.
+It found there had been a lack of applications from women for senior positions, many of which had not been available on a regular basis.
+It found there had been a lack of applications from women for senior positions, many of which had not been offered on a flexible basis.
+It found there had been a lack of applications from women for senior positions, some of which had not been available on a flexible basis.
+It found there had been a lack of applications from women for senior positions, most of which had not been available on a flexible basis.
+
+It found there had been a lack of applications from women for senior roles, most of which had not been available on a flexible basis.
+It found there had been a lack of applications from women for senior roles, many of which had not been available on a regular basis.
+It found there had been a lack of applications from women for senior roles, many of which had not been made on a flexible basis.
+It found there had been a lack of applications from women for senior roles, many of which had not been available on a flexible basis.
+It found there had been a lack of applications from women for senior roles, some of which had not been available on a flexible basis.
+
+It found there had been a lack of applications from women for the roles, many of which had not been made on a flexible basis.
+It found there had been a lack of applications from women for the roles, many of which had not been available on a regular basis.
+It found there had been a lack of applications from women for the roles, some of which had not been available on a flexible basis.
+It found there had been a lack of applications from women for the roles, many of which had not been available on a flexible basis.
+It found there had been a lack of applications from women for the roles, many of which had not been accepted on a flexible basis.
+It found there had been a lack of applications from women for the roles, most of which had not been available on a flexible basis.
+
+FIN
+sent_id = 47
+Women are more likely to have caring responsibilities.
+add [0]
+Women are more likely to have caring responsibilities and may need to progress into more senior roles.
+Women are more likely to have caring responsibilities and may tend to progress into more senior roles.
+Women are more likely to have caring responsibilities and may struggle to progress into more senior roles.
+Women are more likely to have caring responsibilities and may struggle to fit into more senior roles.
+Women are more likely to have caring responsibilities and may want to progress into more senior roles.
+Women are more likely to have caring responsibilities and may wish to progress into more senior roles.
+
+add [1]
+Women are more likely to have caring responsibilities and may need to progress into more senior roles if they do not offer flexible working options.
+
+Women are more likely to have caring responsibilities and may tend to progress into more senior roles if they do not offer flexible working options.
+
+Women are more likely to have caring responsibilities and may struggle to progress into more senior roles if they do not offer flexible working options.
+
+Women are more likely to have caring responsibilities and may struggle to fit into more senior roles if they do not offer flexible working options.
+
+Women are more likely to have caring responsibilities and may want to progress into more senior roles if they do not offer flexible working options.
+
+Women are more likely to have caring responsibilities and may wish to progress into more senior roles if they do not offer flexible working options.
+
+FIN
+sent_id = 48
+We want to see employers embracing practices such as working from home and returners programmes.
+add [0]
+We want to see more employers embracing practices such as working from home and returners programmes.
+
+add [1]
+We want to see more employers embracing practices such as working from home and returners programmes, which can have a positive effect.
+We want to see more employers embracing practices such as working from home and returners programmes, which can have a significant impact.
+We want to see more employers embracing practices such as working from home and returners programmes, which can have a negative impact.
+
+add [2]
+We want to see more employers embracing practices such as working from home and returners programmes, which can have a positive effect for both men and women.
+
+We want to see more employers embracing practices such as working from home and returners programmes, which can have a significant impact for both men and women.
+
+We want to see more employers embracing practices such as working from home and returners programmes, which can have a negative impact for both men and women.
+
+FIN
+sent_id = 49
+Thousands of people have been prevented.
+add [0]
+Thousands of people have been prevented from paying with cash in recent years.
+Thousands of people have been prevented from paying with money in recent months.
+Thousands of people have been prevented from travelling with cash in recent months.
+Thousands of people have been prevented from paying with cash in recent months.
+
+FIN
