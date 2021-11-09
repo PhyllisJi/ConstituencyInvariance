@@ -4984,3 +4984,17 @@ A liquor shop salesman, who refused liquor to some men on Saturday morning, was 
 A liquor shop salesman, who refused liquor to some men on Saturday morning, was shot dead in Dankaur area of Bhatta village, he said on Sunday.
 
 FIN
+sent_id = 49
+Amazon has launched its own pharmacy.
+add [0]
+Amazon has launched its own online pharmacy.
+
+add [1]
+Amazon has launched its own online pharmacy allowing customers to buy prescription medicines.
+Amazon has launched its own online pharmacy allow people to buy prescription medicines.
+Amazon has launched its own online pharmacy allow users to buy prescription medicines.
+Amazon has launched its own online pharmacy allow customers to purchase prescription medicines.
+Amazon has launched its own online pharmacy for customers to buy prescription medicines.
+Amazon has launched its own online pharmacy allow customers to buy prescription medicines.
+
+FIN
