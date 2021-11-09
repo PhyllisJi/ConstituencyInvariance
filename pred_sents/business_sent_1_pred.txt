@@ -1915,20 +1915,6 @@ The official's comments came after the ministry of finance issued a regulation o
 
 FIN
 sent_id = 26
-Amazon has launched its own pharmacy.
-add [0]
-Amazon has launched its own online pharmacy.
-
-add [1]
-Amazon has launched its own online pharmacy allowing customers to buy prescription medicines.
-Amazon has launched its own online pharmacy allow people to buy prescription medicines.
-Amazon has launched its own online pharmacy allow users to buy prescription medicines.
-Amazon has launched its own online pharmacy allow customers to purchase prescription medicines.
-Amazon has launched its own online pharmacy for customers to buy prescription medicines.
-Amazon has launched its own online pharmacy allow customers to buy prescription medicines.
-
-FIN
-sent_id = 27
 Black americans pay more than any other group to own a home.
 add [0]
 Black americans pay more than any other group to own a home, a disparity that contributes to roughly half of the $ 130000 retirement savings gap between Blacks and Whites.
@@ -1970,7 +1956,7 @@ Black americans pay more than any other group to own a home, a disparity that am
 Black americans pay more than any other group to own a home, a disparity that amounts to roughly half of the $ 130000 retirement savings gap between Blacks and Whites, according to new research from mit.
 
 FIN
-sent_id = 28
+sent_id = 27
 Food price inflation could continue to rise in November.
 add [0]
 The firm Capital Economics said food price inflation could continue to rise in November.
@@ -2048,7 +2034,7 @@ Analyst of Capital Economics said food price inflation could continue to rise in
 Analyst of Capital Economics said food price inflation could continue to rise in November as supermarket demand continues to increase during the Covid-19 lockdown.
 
 FIN
-sent_id = 29
+sent_id = 28
 Travel rules have been relaxed.
 add [0]
 Travel rules have been relaxed for people arriving in England.
@@ -2329,7 +2315,7 @@ Travel rules have been relaxed for tourists arriving in England to work on the f
 Travel rules have been relaxed for tourists arriving in England to work on the farms to ensure there is no turkey available for Christmas dinner.
 
 FIN
-sent_id = 30
+sent_id = 29
 Women said they had been forced to stay overnight.
 add [0]
 Women working at a Ralph Lauren supplier said they had been forced to stay overnight.
