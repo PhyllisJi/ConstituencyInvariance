@@ -2878,3 +2878,67 @@ The government has also stated people must not travel to second homes either in 
 The government has also stated people must not travel to second homes either in the country or abroad.
 
 FIN
+sent_id = 48
+Once-crowded sights lay dormant.
+add [0]
+Around the world, once-crowded sights lay dormant.
+Around the corner, once-crowded sights lay dormant.
+
+add [1]
+Around the world, once-crowded sights lay dormant, with hotels empty and not a restaurant.
+Around the world, once-crowded sights lay dormant, with hotels empty and not a tourist.
+Around the world, once-crowded sights lay dormant, with streets empty and not a tourist.
+Around the world, once-crowded sights lay dormant, with hotels empty and not a hotel.
+
+Around the corner, once-crowded sights lay dormant, with one empty and not a tourist.
+Around the corner, once-crowded sights lay dormant, with hotels empty and not a restaurant.
+Around the corner, once-crowded sights lay dormant, with hotels empty and not a bar.
+Around the corner, once-crowded sights lay dormant, with hotels empty and not a hotel.
+Around the corner, once-crowded sights lay dormant, with hotels empty and not a tourist.
+
+add [2]
+Around the world, once-crowded sights lay dormant, with hotels empty and not a restaurant in sight.
+
+Around the world, once-crowded sights lay dormant, with hotels empty and not a tourist in sight.
+
+Around the world, once-crowded sights lay dormant, with streets empty and not a tourist in sight.
+
+Around the world, once-crowded sights lay dormant, with hotels empty and not a hotel in sight.
+
+Around the corner, once-crowded sights lay dormant, with one empty and not a tourist in sight.
+
+Around the corner, once-crowded sights lay dormant, with hotels empty and not a restaurant in sight.
+
+Around the corner, once-crowded sights lay dormant, with hotels empty and not a bar in sight.
+
+Around the corner, once-crowded sights lay dormant, with hotels empty and not a hotel in sight.
+
+Around the corner, once-crowded sights lay dormant, with hotels empty and not a tourist in sight.
+
+FIN
+sent_id = 49
+The move has raised concerns.
+add [0]
+The move has reraised concerns that poor and deprived communities face being cut off.
+The move has reraised concerns that rural and deprived communities face being cut off.
+The move has reraised concerns that rural and deprived communities are being cut off.
+The move has reraised concerns that rural and deprived areas face being cut off.
+The move has reraised concerns that rural and urban communities face being cut off.
+
+add [1]
+The move has reraised concerns that poor and deprived communities face being cut off from access to water.
+The move has reraised concerns that poor and deprived communities face being cut off from access to cash.
+
+The move has reraised concerns that rural and deprived communities face being cut off from access to water.
+The move has reraised concerns that rural and deprived communities face being cut off from access to cash.
+
+The move has reraised concerns that rural and deprived communities are being cut off from access to cash.
+The move has reraised concerns that rural and deprived communities are being cut off from access to water.
+
+The move has reraised concerns that rural and deprived areas face being cut off from access to cash.
+The move has reraised concerns that rural and deprived areas face being cut off from access to water.
+
+The move has reraised concerns that rural and urban communities face being cut off from access to cash.
+The move has reraised concerns that rural and urban communities face being cut off from access to water.
+
+FIN
