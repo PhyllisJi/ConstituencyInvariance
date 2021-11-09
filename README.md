@@ -38,7 +38,7 @@
   - eid: the sentence id of detecting errors
 
 - Generate error reports
-  - **python gen_report.py --file-name XXXX --MTSys XXXX **
+  - **python gen_report.py --file-name XXXX --MTSys XXXX**
   - file-name: the file names in directory bugs
   - MTSys: bing; youdao; google; baidu
 
