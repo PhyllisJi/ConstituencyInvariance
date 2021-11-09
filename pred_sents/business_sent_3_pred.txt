@@ -3574,27 +3574,6 @@ House prices rose at their fastest rate for five months in October as buyers rac
 
 FIN
 sent_id = 39
-This refers to the increase in demand for screens and laptops.
-add [0]
-This refers to the increase in demand for screens and laptops as more people work from home.
-
-add [1]
-This refers to the increase in demand for screens and laptops as more people work from home, nd use online meeting rooms.
-This refers to the increase in demand for screens and laptops as more people work from home, and use online meeting platforms.
-This refers to the increase in demand for screens and laptops as more people work from home, nd use online meeting platforms.
-This refers to the increase in demand for screens and laptops as more people work from home, nd and online meeting platforms.
-
-add [2]
-This refers to the increase in demand for screens and laptops as more people work from home, nd use online meeting rooms like Zoom.
-
-This refers to the increase in demand for screens and laptops as more people work from home, and use online meeting platforms like Zoom.
-
-This refers to the increase in demand for screens and laptops as more people work from home, nd use online meeting platforms like Zoom.
-
-This refers to the increase in demand for screens and laptops as more people work from home, nd and online meeting platforms like Zoom.
-
-FIN
-sent_id = 40
 Sellers garner a daily turnover of about 400 million yuan.
 add [0]
 Sellers at a single distribution center garner a daily turnover of about 400 million yuan.
