@@ -2684,6 +2684,24 @@ Raven can be seen in the video as one member of the older couple who embrace on 
 Raven can be seen in the video as one member of the older couple who embrace on the bed as rain is pouring into their cabin.
 
 FIN
+sent_id = 49
+This refers to the increase in demand for screens and laptops.
+add [0]
+This refers to the increase in demand for screens and laptops as more people work from home.
 
+add [1]
+This refers to the increase in demand for screens and laptops as more people work from home, nd use online meeting rooms.
+This refers to the increase in demand for screens and laptops as more people work from home, and use online meeting platforms.
+This refers to the increase in demand for screens and laptops as more people work from home, nd use online meeting platforms.
+This refers to the increase in demand for screens and laptops as more people work from home, nd and online meeting platforms.
 
+add [2]
+This refers to the increase in demand for screens and laptops as more people work from home, nd use online meeting rooms like Zoom.
 
+This refers to the increase in demand for screens and laptops as more people work from home, and use online meeting platforms like Zoom.
+
+This refers to the increase in demand for screens and laptops as more people work from home, nd use online meeting platforms like Zoom.
+
+This refers to the increase in demand for screens and laptops as more people work from home, nd and online meeting platforms like Zoom.
+
+FIN
