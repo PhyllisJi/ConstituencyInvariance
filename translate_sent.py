@@ -286,9 +286,9 @@ def translate_sent(mt_sys, pred_file, trans_file, s_id, e_id, lan):
 def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('--file-name',
-                        default='sports_sent_1')
+                        default='business_sent_1')
     parser.add_argument('--MTSys',
-                        default='youdao')
+                        default='bing')
     parser.add_argument('--sid',
                         type=int,
                         default=0)
