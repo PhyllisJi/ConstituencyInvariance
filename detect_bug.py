@@ -290,9 +290,9 @@ def test_sent(test_file, bug_file, s_id, e_id):
 def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('--file-name',
-                        default='health_sent_2')
+                        default='business_sent_1')
     parser.add_argument('--MTSys',
-                        default='google')
+                        default='bing')
     parser.add_argument('--sid',
                         type=int,
                         default=0)
