@@ -90,9 +90,9 @@ def save_bug(bug_list, file_name):
 def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('--file-name',
-                        default='sports_sent_1')
+                        default='business_sent_1')
     parser.add_argument('--MTSys',
-                        default='google')
+                        default='bing')
     return parser.parse_args()
 
 
