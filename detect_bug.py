@@ -317,5 +317,4 @@ if __name__ == '__main__':
     test_sent(translation_file, bug_file, s_id, e_id)
     end = time.perf_counter()
     print(' Detecing bus Running time: %s Seconds' % (end - start))
-、
 
